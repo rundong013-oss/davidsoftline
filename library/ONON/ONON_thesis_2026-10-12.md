@@ -4,6 +4,14 @@
 
 ## 一、基本面
 
+### 小结
+
+过去 5 个季度，CC 增速从 +38% 逐步放缓至 +22%，这是自然的基数效应+FY26Q2 Americas wholesale 主动收缩的叠加结果。但 underlying quality 在改善：毛利率从 61.5% 升至 65.4%（每个季度都在扩张），adj EBITDA margin 从 18.2% 升至 19.8%，DTC 占比持续提升。
+
+**市场当前的核心 debate 是：Americas wholesale 的 sell-through 放缓是产品周期问题（transitory）还是品牌热度流失（structural）？** 这是决定 ONON 投资逻辑的关键分叉点。市场已按"可能 structural"定价——股价从高位回落 ~36%，PE 从 60-85x 压缩至 20x。但目前可观测的证据更倾向于"product cycle"而非"brand deterioration"：DTC +34% CC、全价 GM 创纪录 65.4%、年轻客群加速流入、Cloudtilt 在 Foot Locker 欧洲连续霸榜。如果品牌真的在结构性恶化，我们预期会看到 DTC 放缓+折扣增加+GM 下降+年轻客群流失——目前一个都没出现。
+
+9 月 Investor Day 宣布进入足球和高尔夫品类，并给出 2029 财务目标。Goldman Sachs 维持 Buy（TP $44）[GS CMD note]。这提供了中期增长 runway 的 visibility。
+
 ### 最新指引（FY26Q2 财报，2026-08-11）
 
 **下调收入但上调利润率。**
@@ -90,14 +98,6 @@ _Americas 是唯一 DTC 占比在下降的地区——因为 wholesale 收入增
 | FY2027E 收入一致预期 | — | **CHF 4,180M（+19%）** | — |
 
 _估值重置是过去半年最大的变量。PE 从 60-85x 压缩至 20x——一家 CC +20%、GPM 65%、EBITDA 20% 的成长公司，Forward PE 仅 20x。这在 ON 历史上从未出现过。_
-
-### 小结
-
-过去 5 个季度，CC 增速从 +38% 逐步放缓至 +22%，这是自然的基数效应+FY26Q2 Americas wholesale 主动收缩的叠加结果。但 underlying quality 在改善：毛利率从 61.5% 升至 65.4%（每个季度都在扩张），adj EBITDA margin 从 18.2% 升至 19.8%，DTC 占比持续提升。
-
-**市场当前的核心 debate 是：Americas wholesale 的 sell-through 放缓是产品周期问题（transitory）还是品牌热度流失（structural）？** 这是决定 ONON 投资逻辑的关键分叉点。市场已按"可能 structural"定价——股价从高位回落 ~36%，PE 从 60-85x 压缩至 20x。但目前可观测的证据更倾向于"product cycle"而非"brand deterioration"：DTC +34% CC、全价 GM 创纪录 65.4%、年轻客群加速流入、Cloudtilt 在 Foot Locker 欧洲连续霸榜。如果品牌真的在结构性恶化，我们预期会看到 DTC 放缓+折扣增加+GM 下降+年轻客群流失——目前一个都没出现。
-
-9 月 Investor Day 宣布进入足球和高尔夫品类，并给出 2029 财务目标。Goldman Sachs 维持 Buy（TP $44）[GS CMD note]。这提供了中期增长 runway 的 visibility。
 
 ## 二、投资机会判断
 
