@@ -11,41 +11,6 @@ from views.components import line_chart
 def render():
     st.header("指数和ETF")
 
-    # ── 行业等权指数 ──────────────────────────────────────────────
-    st.subheader("行业等权指数")
-    idx_df = get_sector_index()
-    if not idx_df.empty:
-        idx_df["date"] = pd.to_datetime(idx_df["date"])
-        pivot = idx_df.pivot_table(
-            index="date", columns="sector", values="index_value"
-        )
-        # 重命名列
-        rename_map = {"sportswear": "运动服饰", "luxury": "奢侈品"}
-        pivot = pivot.rename(columns=rename_map)
-
-        fig = line_chart(
-            pivot,
-            title="行业等权指数（基期 = 1）",
-            y_label="归一化",
-            height=450,
-            normalized=True,
-        )
-        st.plotly_chart(fig, use_container_width=True)
-
-        # 最新值
-        if not pivot.empty:
-            latest = pivot.iloc[-1]
-            cols = st.columns(len(latest))
-            for i, (col_name, val) in enumerate(latest.items()):
-                with cols[i]:
-                    prev = pivot.iloc[-2][col_name] if len(pivot) > 1 else val
-                    delta = f"{(val / prev - 1):+.2%}" if prev else None
-                    st.metric(col_name, f"{val:.4f}", delta=delta)
-    else:
-        st.info("无行业指数数据")
-
-    st.divider()
-
     # ── 可选消费 ETF ──────────────────────────────────────────────
     st.subheader("可选消费 ETF")
     etf_df = get_etf_weekly()
@@ -91,3 +56,38 @@ def render():
                     st.write(f"**{ticker}**: {desc}")
     else:
         st.info("无 ETF 数据")
+
+    st.divider()
+
+    # ── 行业等权指数 ──────────────────────────────────────────────
+    st.subheader("行业等权指数")
+    idx_df = get_sector_index()
+    if not idx_df.empty:
+        idx_df["date"] = pd.to_datetime(idx_df["date"])
+        pivot = idx_df.pivot_table(
+            index="date", columns="sector", values="index_value"
+        )
+        # 重命名列
+        rename_map = {"sportswear": "运动服饰", "luxury": "奢侈品"}
+        pivot = pivot.rename(columns=rename_map)
+
+        fig = line_chart(
+            pivot,
+            title="行业等权指数（基期 = 1）",
+            y_label="归一化",
+            height=450,
+            normalized=True,
+        )
+        st.plotly_chart(fig, use_container_width=True)
+
+        # 最新值
+        if not pivot.empty:
+            latest = pivot.iloc[-1]
+            cols = st.columns(len(latest))
+            for i, (col_name, val) in enumerate(latest.items()):
+                with cols[i]:
+                    prev = pivot.iloc[-2][col_name] if len(pivot) > 1 else val
+                    delta = f"{(val / prev - 1):+.2%}" if prev else None
+                    st.metric(col_name, f"{val:.4f}", delta=delta)
+    else:
+        st.info("无行业指数数据")
