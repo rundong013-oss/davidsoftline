@@ -1,0 +1,699 @@
+EX-99.2
+3
+a26q1-exhibit992xmda.htm
+EX-99.2_Q1'26_MANAGEMENT'S DISCUSSION AND ANALYSIS
+
+Document
+
+Exhibit 99.2
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+Unless otherwise indicated or the context otherwise requires, all references in this document to “On,” “On Holding AG,” the “Company,” “we,” “our,” “ours,” “us,” or similar terms refer to On Holding AG and its consolidated subsidiaries.
+The following discussion of our financial condition and results of operations should be read in conjunction with the unaudited consolidated financial information included as an appendix to this management's discussion and analysis of financial condition and results of operations, as well as our audited financial statements and the notes thereto, and the section titled "Risk Factors", each of which appear in our annual report on Form 20-F for the year ended December 31, 2025, filed with the Securities and Exchange Commission ("SEC") on March 3, 2026 ("Annual Report"). As discussed in the section titled "Special Note Regarding Forward-Looking Statements," the following management's discussion and analysis contains forward-looking statements that involve risks and uncertainties, as well as assumptions that, if they never materialize or prove incorrect, could cause our results to differ materially from those expressed or implied by such forward-looking statements. Factors that could cause or contribute to these differences include, but are not limited to, those identified below in such section. The unaudited consolidated financial information as of March 31, 2026 and for the three-month periods ended March 31, 2026 and 2025 were prepared in accordance with International Accounting Standards ("IFRS"), as issued by the International Accounting Standards Board ("IASB"), and presented in Swiss Francs ("CHF"), the legal currency of Switzerland. 
+Certain numerical figures shown as totals in some tables may not be an arithmetic aggregation of the figures that preceded them due to rounding. With respect to financial information set out in this document, a dash (“—”) signifies that the relevant figure is available but is or has been rounded to zero. 
+
+Overview
+On is a premium performance sportswear brand rooted in innovation, design, and sustainability. Since our founding in the Swiss Alps in 2010, we have built a distinctive global brand with a passionate community across more than 90 countries. Through our premium product and brand experience, we bring our mission—to ignite the human spirit through movement—to life for our fans worldwide.
+We believe our premium positioning and our relentless focus on performance and design sets us apart within the global sportswear market. Our culture of innovation has enabled us to repeatedly introduce groundbreaking technologies designed to elevate the running experience and create enduring excitement around our brand. Anchored in our running heritage, we have extended this expertise into other performance categories, including performance outdoor, performance all-day, performance tennis, and performance training, connecting us with new communities across a full spectrum of movement.
+On operates as a single-brand consumer products business and therefore has a single operating and reportable segment.
+
+Key Financial and Operating Metrics
+Key financial and operating metrics for the three-month period ended March 31, 2026 compared to the three-month period ended March 31, 2025 include: 
+
+•    net sales increased by 14.5% to CHF 831.9 million, or by 26.4% on a constant currency basis;
+•    net sales through the direct-to-consumer (“DTC”) sales channel increased by 16.4% to CHF 322.3 million, or by 28.7% on a constant currency basis; 
+•    net sales through the wholesale sales channel increased by 13.3% to CHF 509.6 million, or by 25.1% on a constant currency basis; 
+•    net sales in Europe, Middle East and Africa (“EMEA”), Americas and Asia-Pacific increased by 22.8% to CHF 207.1 million, 3.1% to CHF 450.7 million and 44.4% to CHF 174.0 million, respectively; 
+•    net sales in EMEA, Americas and Asia-Pacific increased by 25.6%, 17.1% and 61.4% on a constant currency basis, respectively;
+•    net sales from shoes, apparel and accessories increased by 12.2% to CHF 763.7 million, 45.1% to CHF 55.3 million and 70.7% to CHF 12.9 million, respectively;
+•    net sales from shoes, apparel and accessories increased by 24.0%, 57.5% and 86.6% on a constant currency basis, respectively;
+1
+
+•    gross profit increased by 22.8% to CHF 534.3 million from CHF 435.3 million; 
+•    gross profit margin increased to 64.2% from 59.9%; 
+•    net income increased by 82.2% to CHF 103.3 million from CHF 56.7 million;
+•    net income margin increased to 12.4% from 7.8%; 
+•    basic earnings per share (“EPS”) Class A (CHF) increased to 0.31 from 0.17;
+•    diluted EPS Class A (CHF) increased to 0.31 from 0.17;
+•    adjusted earnings before interest, taxes, depreciation and amortization ("Adjusted EBITDA") increased by 45.4% to CHF 174.3 million from CHF 119.9 million;
+•    adjusted EBITDA margin increased to 21.0% from 16.5%;
+•    adjusted net income increased to CHF 123.6 million from CHF 70.5 million;
+•    adjusted basic EPS Class A (CHF) increased to 0.37 from 0.22; and
+•    adjusted diluted EPS Class A (CHF) increased to 0.37 from 0.21.
+
+Key financial and operating metrics as of March 31, 2026 compared to December 31, 2025 included: 
+•    cash and cash equivalents increased by 0.1% to CHF 1,020.4 million from CHF 1,019.9 million; and
+•    net working capital increased by 14.1% to CHF 650.8 million from CHF 570.3 million.
+
+Adjusted EBITDA, adjusted EBITDA margin, adjusted net income, adjusted basic EPS, adjusted diluted EPS, net working capital and net sales on a constant currency basis are non-IFRS measures used by us to evaluate our performance. Furthermore, we believe these non-IFRS measures enhance investors' understanding of our financial and operating performance from period to period because they enhance the comparability of results between each period, help identify trends in operating results and provide additional insight and transparency on how management evaluates the business. Adjusted EBITDA, adjusted EBITDA margin, adjusted net income, adjusted basic EPS, adjusted diluted EPS, net working capital and net sales on a constant currency basis should not be considered in isolation or as a substitute for other financial measures calculated and presented in accordance with IFRS. For a detailed description and a reconciliation to the nearest IFRS measure, see section titled “Non-IFRS Measures.”
+
+2
+
+Operating Results
+The following table summarizes certain key operating measures for the three-month periods ended March 31, 2026 and 2025:
+																							
+		Three-month period ended March 31,	
+(CHF in millions, except per share data)
+		2026		2025				% Change	
+									
+									
+Net sales		831.9 			726.6 					14.5 	%	
+Cost of sales		(297.6)			(291.3)					2.2 	%	
+Gross profit		534.3 			435.3 					22.8 	%	
+Gross profit margin		64.2 	%		59.9 	%					
+Selling, general and administrative expenses		(416.9)			(358.2)					16.4 	%	
+Operating result		117.4 			77.0 					52.5 	%	
+Net financial result		(1.4)			(13.1)					(89.6)	%	
+Income before taxes		116.1 			63.9 					81.6 	%	
+Income tax expenses
+		(12.8)			(7.2)					76.7 	%	
+Net income		103.3 			56.7 					82.2 	%	
+									
+Basic EPS Class A (CHF)		0.31 			0.17 					82.4 	%	
+Diluted EPS Class A (CHF)		0.31 			0.17 					82.4 	%	
+									
+Other data(1)
+									
+Adjusted EBITDA		174.3 			119.9 					45.4 	%	
+Adjusted EBITDA margin		21.0 	%		16.5 	%					
+Adjusted net income		123.6 			70.5 					75.2 	%	
+Adjusted basic EPS Class A (CHF)		0.37 			0.22 					68.2 	%	
+Adjusted diluted EPS Class A (CHF)		0.37 			0.21 					76.2 	%	
+
+(1)    Adjusted EBITDA, adjusted EBITDA margin, adjusted net income, adjusted basic EPS, and adjusted diluted EPS are non-IFRS measures. See section titled “Non-IFRS Measures” for a description of these measures and a reconciliation to the nearest IFRS measure.
+
+Net Sales
+
+Net sales by sales channel
+The following table presents net sales by sales channel:
+																													
+		Three-month period ended March 31,	
+(CHF in millions)		2026		2025				% Change		Constant Currency % Change (1)
+	
+											
+											
+Wholesale		509.6 			449.7 					13.3 	%		25.1 	%	
+Direct-to-consumer		322.3 			276.9 					16.4 	%		28.7 	%	
+Net sales		831.9 			726.6 					14.5 	%		26.4%	
+											
+Wholesale % of Net sales		61.3 	%		61.9 	%							
+Direct-to-consumer % of Net sales		38.7 	%		38.1 	%							
+Net sales %		100.0 	%		100.0 	%							
+
+(1)    The constant currency percent change represents changes to net sales on a constant currency basis, which is a non-IFRS financial measure. See section titled "Non-IFRS Measures" for a description of this measure. Reconciliation to the nearest IFRS measure is shown in table above.
+3
+
+Net sales for the three-month period ended March 31, 2026 increased by CHF 105.3 million, or 14.5%, compared to the three-month period ended March 31, 2025.  
+Net sales generated by the wholesale sales channel for the three-month period ended March 31, 2026 increased by CHF 59.9 million, or 13.3%, to CHF 509.6 million, compared to CHF 449.7 million for the three-month period ended March 31, 2025. The increase was attributable to strong performance within the wholesale channel through door expansion and continued strength with key account partners. 
+Net sales generated by the DTC sales channel for the three-month period ended March 31, 2026 increased by CHF 45.4 million, or 16.4%, to CHF 322.3 million, compared to CHF 276.9 million for the three-month period ended March 31, 2025. This growth was primarily attributable to continued strong global demand for the On brand with positive contribution from the strategic expansion of our global retail footprint and by higher traffic and increased transactions across both our e-commerce platform and existing retail locations.
+As a result of the strength of our DTC channel and in line with the strategic ambition for our DTC sales channel to outgrow our wholesale sales channel, net sales generated from our DTC channel as a percentage of net sales increased to 38.7% for the three-month period ended March 31, 2026 compared to 38.1% for the three-month period ended March 31, 2025.   
+
+Net sales by geography
+The following table presents net sales by geographic region (based on the location of the counterparty):
+																													
+		Three-month period ended March 31,	
+(CHF in millions)		2026		2025				% Change		 Constant Currency % Change (1)
+	
+											
+											
+Americas		450.7 			437.4 					3.1 	%		17.1 	%	
+Europe, Middle East and Africa		207.1 			168.6 					22.8 	%		25.6 	%	
+Asia-Pacific		174.0 			120.6 					44.4 	%		61.4 	%	
+Net Sales		831.9 			726.6 					14.5%		26.4%	
+											
+Americas % of Net sales
+		54.2 	%		60.2 	%							
+Europe, Middle East, Africa % of Net sales		24.9 	%		23.2 	%							
+Asia-Pacific % of Net sales		20.9 	%		16.6 	%							
+Net sales %		100.0 	%		100.0 	%							
+
+(1)    The constant currency percent change represents changes to net sales on a constant currency basis, which is a non-IFRS financial measure. See section titled "Non-IFRS Measures" for a description of this measure. Reconciliation to the nearest IFRS measure is shown in table above.
+
+Net sales increased across all geographic regions for the three-month period ended March 31, 2026, compared to the three-month period ended March 31, 2025, with Asia-Pacific showing particularly strong growth. The 3.1% increase in net sales in the Americas was driven by the ongoing rise in popularity and awareness of the On brand in the region, particularly the strong performance within the wholesale channel through door expansion and continued strength with key account partners. The 22.8% increase in net sales in EMEA was driven by the continued strength in both channels, highlighted by continued strong growth in France, Spain, and the United Kingdom. The 44.4% increase in net sales in Asia-Pacific was primarily driven by strong growth in China across both channels with notable contributions from Japan and South Korea.
+4
+
+Net sales by product
+The following table presents net sales by product group:
+
+																													
+		Three-month period ended March 31,	
+(CHF in millions)		2026		2025				% Change		 Constant Currency % Change (1)
+	
+											
+											
+Shoes		763.7 			680.9 					12.2 	%		24.0 	%	
+Apparel		55.3 			38.1 					45.1 	%		57.5 	%	
+Accessories		12.9 			7.6 					70.7 	%		86.6 	%	
+											
+Net Sales		831.9 			726.6 					14.5 	%		26.4%	
+											
+Shoes % of Net sales		91.8 	%		93.7 	%							
+Apparel % of Net sales		6.6 	%		5.2 	%							
+Accessories % of Net sales		1.6 	%		1.0 	%							
+											
+Net sales %		100.0 	%		100.0 	%							
+
+(1)    The constant currency percent change represents changes to net sales on a constant currency basis, which is a non-IFRS financial measure. See section titled "Non-IFRS Measures" for a description of this measure. Reconciliation to the nearest IFRS measure is shown in table above.
+
+Net sales increased across all product groups during the three-month period ended March 31, 2026 compared to the three-month period ended March 31, 2025. The 12.2% increase in net sales for shoes was driven by the continuity of successful products carrying over from previous seasons, updates to existing models, and new model launches. Growth was supported by the strong performance of the Cloudtilt franchise, as well as contributions by the latest releases of the Cloudmonster and Cloudrunner franchises. The 45.1% increase in net sales in apparel during the three-month period ended March 31, 2026, compared to the three-month period ended March 31, 2025, was driven primarily by our Performance Running vertical with additional contribution from our Performance All Day and Performance Training vertical. The 70.7% increase in net sales in accessories during the three-month period ended March 31, 2026, compared to the three-month period ended March 31, 2025, was driven by growth within the socks category with additional contributions from our bags category. 
+
+Gross Profit
+
+																							
+		Three-month period ended March 31,	
+(CHF in millions)		2026		2025				% Change	
+									
+									
+Gross profit		534.3 			435.3 					22.8 	%	
+Gross profit margin		64.2 	%		59.9 	%					
+
+Cost of sales increased during the three-month period ended March 31, 2026 by CHF 6.3 million, or 2.2%, to CHF 297.6 million, compared to CHF 291.3 million during the three-month period ended March 31, 2025. Gross profit was CHF 534.3 million for the three-month period ended March 31, 2026, representing a gross profit margin of 64.2%, compared to CHF 435.3 million for the three-month period ended March 31, 2025, representing a gross profit margin of 59.9%. The increase in gross profit margin was primarily attributable to our premium brand positioning and ongoing operational efficiencies and improvements (including reduced air freight), and a favorable foreign exchange impact, which more than offset the impact of increased import duties in the United States.
+
+5
+
+Selling, General and Administrative ("SG&A") Expenses  
+
+																							
+		Three-month period ended March 31,	
+(CHF in millions)		2026		2025				% Change	
+									
+									
+Net sales		831.9 			726.6 					14.5 	%	
+									
+Distribution expenses		(83.2)			(79.6)					4.6 	%	
+Selling expenses		(70.4)			(60.7)					16.0 	%	
+Marketing expenses		(109.2)			(80.8)					35.1 	%	
+Share-based compensation		(21.3)			(14.6)					46.2 	%	
+General and administrative expenses		(132.7)			(122.6)					8.3 	%	
+SG&A expenses
+		(416.9)			(358.2)					16.4 	%	
+Less share-based compensation		(21.3)			(14.6)					46.2 	%	
+SG&A expenses (excluding share-based compensation)
+		(395.6)			(343.7)					15.1 	%	
+									
+Distribution expenses % of Net sales		10.0 	%		11.0 	%					
+Selling expenses % of Net sales		8.5 	%		8.4 	%					
+Marketing expenses % of Net sales		13.1 	%		11.1 	%					
+Share-based compensation % of Net sales		2.6 	%		2.0 	%					
+General and administrative expenses % of Net sales		16.0 	%		16.9 	%					
+SG&A expenses % of Net sales		50.1 	%		49.3 	%					
+SG&A expenses (excluding share-based compensation) % of Net sales
+		47.6 	%		47.3 	%					
+
+SG&A expenses for the three-month period ended March 31, 2026 increased by CHF 58.6 million, or 16.4%, to CHF 416.9 million, compared to CHF 358.2 million for the three-month period ended March 31, 2025. Excluding share-based compensation, SG&A expenses as a percentage of net sales increased to 47.6% in the three-month period ended March 31, 2026 compared to 47.3% for the three-month period ended March 31, 2025. 
+
+The drivers for the fluctuations in SG&A expenses, mostly denominated as a percentage of net sales, can be summarized as follows:
+•    Distribution expenses as a percentage of net sales decreased to 10.0% during the three-month period ended March 31, 2026 compared to 11.0% during the three-month period ended March 31, 2025. This was primarily due to lower delivery and warehousing costs resulting from operational efficiency gains during the three-month period ended March 31, 2026. 
+•    Selling expenses as a percentage of net sales increased to 8.5% during the three-month period ended March 31, 2026 compared to 8.4% during the three-month period ended March 31, 2025. The slight increase was driven by additional expenses incurred as a result of our expanding retail footprint, primarily due to retail store-related depreciation and personnel costs. 
+•    Marketing expenses as a percentage of net sales increased to 13.1% during the three-month period ended March 31, 2026 compared to 11.1% during the three-month period ended March 31, 2025. This increase was driven by selective reinvestment of operational efficiency gains into meaningful upper funnel brand building initiatives, including in innovation activations and digital environments.  
+•    Share-based compensation expenses increased by CHF 6.7 million to CHF 21.3 million during the three-month period ended March 31, 2026 from CHF 14.6 million during the three-month period ended March 31, 2025. 
+•    General and administrative expenses as a percentage of net sales decreased to 16.0% during the three-month period ended March 31, 2026 compared to 16.9% during the three-month period ended March 31, 2025. This decrease is driven by strong net sales growth, and the non-recurrence of one-off employee-related expenses in the three-month period ended March 31, 2025.
+
+6
+
+Depreciation and Amortization
+																							
+		Three-month period ended March 31,	
+(CHF in millions)		2026		2025				% Change	
+									
+									
+									
+									
+Depreciation and amortization		(35.6)			(28.3)					25.6 	%	
+Depreciation and amortization % of Net sales		4.3 	%		3.9 	%					
+
+Depreciation and amortization expenses during the three-month period ended March 31, 2026 increased by CHF 7.2 million, or 25.6%, to CHF 35.6 million, compared to CHF 28.3 million during the three-month period ended March 31, 2025. Thereof, depreciation and amortization expenses attributable to right of use assets increased by CHF 6.2 million as a result of the expansion of our retail stores and our enhanced warehouse and distribution facilities. In addition, depreciation and amortization expenses attributable to owned assets increased by CHF 1.0 million.
+
+Net Financial Result
+																							
+		Three-month period ended March 31,	
+(CHF in millions)		2026		2025				% Change	
+									
+									
+Financial income		7.0 			7.3 					(4.1)	%	
+Financial expenses		(8.0)			(5.9)					35.6 	%	
+Foreign exchange loss		(0.3)			(14.5)					(97.9)	%	
+Net financial result		(1.4)			(13.1)					(89.3)	%	
+
+Financial income for the three-month period ended March 31, 2026 decreased by CHF 0.3 million, or 4.1%, to CHF 7.0 million, compared to CHF 7.3 million for the three-month period ended March 31, 2025. 
+Financial expenses for the three-month period ended March 31, 2026 increased by CHF 2.1 million, or 35.6%, to CHF 8.0 million, compared to CHF 5.9 million for the three-month period ended March 31, 2025. The increase was driven by higher interest expenses on lease contracts, resulting from additional leases outstanding as of March 31, 2026 compared to March 31, 2025. 
+Foreign exchange loss for the three-month period ended March 31, 2026 decreased by CHF 14.2 million to CHF 0.3 million compared to CHF 14.5 million for the three-month period ended March 31, 2025.  The change in foreign exchange losses  was primarily due to foreign exchange losses in the three-month period ended March 31, 2025 driven by the CHF/USD exchange rate, while the minimal loss in the three-month period ended March 31, 2026 resulted from the changes in functional currency on January 1, 2026 and the relative stability of the USD against the GBP, CHF, CNY, JPY, and EUR as of March 31, 2026 compared to December 31, 2025. Refer to the section titled "Factors Affecting Performance and Trend Information," and to our Annual Report, available at www.sec.gov, for additional information on the aforementioned functional currency changes. 
+
+Income Taxes
+
+																							
+		Three-month period ended March 31,	
+(CHF in millions)		2026		2025				% Change	
+									
+									
+									
+									
+Income tax expense		(12.8)			(7.2)					76.7 	%	
+Effective income tax rate		11.0 	%		11.3 	%					
+
+Income tax expense, based on an estimate of the annual effective income tax rate for the three-month period ended March 31, 2026 was CHF 12.8 million, compared to Income tax expense of CHF 7.2 million during the three-month period ended March 31, 2025. The effective income tax rate was 11.0% for the three-month period ended March 31, 2026 compared to 11.3% for the three-month period ended March 31, 2025. The effective tax rate remained comparable during the three-month period 
+7
+
+ended March 31, 2026 as compared to the three-month period ended March 31, 2025. This was primarily due to similar impacts from certain tax incentives, and similar impacts from the elimination of intercompany profits in inventory, in both periods.
+
+Liquidity and Capital Resources 
+Our primary need for liquidity is to fund working capital requirements, capital expenditures, lease obligations and for general corporate purposes. We finance our liquidity needs using a combination of cash and cash equivalents balances and cash provided from operating activities. 
+
+Cash Flows
+
+																							
+		Three-month period ended March 31,	
+(CHF in millions)		2026		2025		Change			
+									
+									
+Cash inflow / (outflow) from operating activities		29.1 			(12.1)			41.2 				
+Cash (outflow) from investing activities		(18.7)			(12.1)			(6.6)				
+Cash (outflow) from financing activities		(20.9)			(12.0)			(9.0)				
+									
+Cash and cash equivalents at the beginning of the period
+		1,019.9 			924.3 			95.5 				
+Change in cash and cash equivalents
+		(10.3)			(36.3)			26.1 				
+Net impact of foreign exchange rate differences		10.8 			(16.1)			26.9 				
+Cash and cash equivalents at the end of the period (1)
+		1,020.4 			871.8 			148.6 				
+
+(1)    Cash and cash equivalents as of March 31, 2026 and March 31, 2025 includes restricted cash in the amount of CHF 0.9 million and CHF 0.6 million, respectively.  
+
+Operating activities
+Cash inflow / (outflow) from operating activities for the three-month period ended March 31, 2026 increased by CHF 41.2 million resulting in a cash inflow of CHF 29.1 million, compared to a cash outflow of CHF (12.1) million for the three-month period ended March 31, 2025. This increase in cash inflows is mainly driven by higher net income, partially offset by a decrease in cash flows from changes in working capital of CHF 46.9 million, and various other offsetting decreases and increases. The changes in cash flows from changes in working capital primarily relates to an increase in the trade receivables balance due to higher net sales through the wholesale sales channel during the three-month period ended March 31, 2026, in comparison to the three-month period ended December 31, 2025.
+
+Investing activities
+Cash outflow from investing activities for the three-month period ended March 31, 2026 increased by CHF 6.6 million to CHF 18.7 million, compared to CHF 12.1 million for the three-month period ended March 31, 2025. The increase is driven by higher purchases of property, plant and equipment during the current year period.
+
+Financing activities
+Cash outflow from financing activities for the three-month period ended March 31, 2026 increased by CHF 9.0 million to CHF 20.9 million, compared to CHF 12.0 million for the three-month period ended March 31, 2025. The increase is driven by lower proceeds from stock option exercises, in addition to higher repayments of lease liabilities resulting from the expansion of our retail, office, and warehouse portfolio.
+
+8
+
+Net Working Capital
+Net working capital is a financial measure that is not defined under IFRS. We use, and believe that certain investors and analysts use, this information to assess liquidity and management use of net working capital resources. We define net working capital as trade receivables, plus inventories, minus trade payables. This measure should not be considered in isolation or as a substitute for any standardized measure under IFRS. Other companies in our industry may calculate this measure differently than we do, limiting its usefulness as a comparative measure. 
+
+																							
+		As of March 31,		As of December 31,					
+(CHF in millions)		2026		2025				% Change	
+									
+									
+Accounts receivables		402.6 			305.4 					31.8 	%	
+Inventories		406.0 			419.8 					(3.3)	%	
+Trade payables		(157.8)			(154.8)					1.9 	%	
+Net working capital		650.8 			570.3 					14.1 	%	
+
+Capital Management
+																							
+		As of March 31,		As of December 31,					
+(CHF in millions, except share and per share data)
+		2026		2025				% Change	
+									
+									
+As of March 31, 2026: CHF 0.10 nominal value, 306,847,124  Class A Ordinary Shares issued of which 299,205,569 were outstanding
+As of December 31, 2025: CHF 0.10 nominal value, 306,847,124 Class A Ordinary Shares issued of which 296,873,353 were outstanding
+		30.7 			30.7 					— 	%	
+As of March 31, 2026 and December 31, 2025: CHF 0.01 nominal value, 341,241,680 Class B voting rights shares issued and outstanding
+		3.4 			3.4 					— 	%	
+Share capital		34.1 			34.1 					— 	%	
+Treasury shares		(26.5)			(26.7)					(0.8)	%	
+Share premium		760.8 			760.8 					— 	%	
+Statutory reserves		63.2 			62.4 					1.3 	%	
+Equity transaction costs		(8.7)			(8.7)					— 	%	
+Tax impact on equity transaction costs		1.3 			1.3 					— 	%	
+Share-based compensation		489.5 			473.2 					3.4 	%	
+Capital reserves		1,306.0 			1,289.0 					1.3 	%	
+Other reserves		(27.7)			(46.6)					(40.5)	%	
+Retained earnings		485.9 			382.6 					27.0 	%	
+Equity		1,771.8 			1,632.4 					8.5 	%	
+
+9
+
+															
+		Class A Shares		Class B Shares	
+					
+					
+Shares issued and outstanding as of January 1, 2026		296,873,353 			341,241,680 		
+					
+Sale of treasury shares related to share-based compensation		2,333,822 			— 		
+Purchase of treasury shares		(1,606)			— 		
+					
+					
+Shares issued and outstanding as of March 31, 2026(1)
+		299,205,569 			341,241,680 		
+					
+					
+					
+Awards granted under various incentive plans with dilutive effects as of March 31, 2026		2,438,266 			2,602,519 		
+
+(1)    As of March 31, 2026 there were 7,641,555 treasury shares held by On (December 31, 2025: 9,973,771).
+
+Share-based compensation
+
+As of March 31, 2026, On has recognized an increase in shareholders' equity in the balance sheet of CHF 16.2 million for share-based compensation incurred during the three-month period.
+For the three-month period ended March 31, 2026, we recognized a share-based compensation charge of CHF 21.3 million pursuant to the following share-based compensation plans and programs for select employees, including our group executive team and senior management team: 
+
+•    Long Term Incentive Plan 2021
+•    Compensation of non-executive members of our board of directors
+
+Share-based payments are valued based on the grant date fair value of these awards and recorded over the corresponding vesting period.
+
+Indebtedness
+On July 7, 2023, we entered into a CHF 700 million multicurrency credit facility agreement ("credit facility"). We have an option to increase the total availability of borrowings under the credit facility in an aggregate amount of up to CHF 200 million, subject to the satisfaction of certain customary conditions. We entered into the credit facility as part of our prudent financial planning strategy to create future financial flexibility to better align with the size and maturity of the Company. The proceeds of any borrowings under the credit facility may be used towards the financing of working capital requirements and for general corporate purposes, including the roll-in of certain existing bank guarantees and the issuance of new bank guarantees. The credit facility had an initial term of three years, which has subsequently been extended for a total period of two years. Subsequent to extensions, the credit facility will expire on July 7, 2028. 
+As of March 31, 2026 and December 31, 2025, we have not drawn cash from the credit facility, and we do not currently expect to do so in the near term. As of March 31, 2026, we are using the credit facility to provide guarantees and letters of credit, as further discussed in the section titled "Off-Balance Sheet Arrangements." 
+The credit facility also contains financial covenants that depend on our consolidated equity as well as our net debt to adjusted EBITDA ratio. As of and during the three-months ended March 31, 2026, we were in compliance with all covenants under the credit facility.
+Further, as of March 31, 2026 and December 31, 2025, trade receivables with a carrying value of CHF 319.4 million and CHF 266.4 million, and inventories with a carrying value of CHF 310.4 million and CHF 340.4 million, respectively, were pledged in relation to the credit facility. 
+
+Material Cash Requirements
+There were no material changes outside of the ordinary course of business during the three-months ended March 31, 2026 to the material cash requirements reported in our Annual Report, with the exception of the items discussed below.
+Lease commitments: As of March 31, 2026, total lease commitments are CHF 195.7 million, with CHF 12.9 million, CHF 85.6 million, and CHF 97.2 million due in less than one year, between one to five years, and more than five years, respectively. This represents an increase from CHF 153.8 million as of  December 31, 2025. While the majority of the future lease commitments continue to relate to contracts entered into for new highly-automated warehouse in Belgium (Beringen), the quarterly increase is driven by new retail lease agreements signed as part of our strategic footprint expansion.
+
+10
+
+Lease liabilities: As of March 31, 2026, total undiscounted lease liabilities are CHF 639.8 million, with CHF 105.2 million, CHF 313.5 million, and CHF 221.1 million due in less than one year, between one to five years, and more than five years, respectively. This represents an increase from CHF 615.6 million as of December 31, 2025, primarily driven by new retail lease commencements as part of our ongoing expansion.
+
+Off-Balance Sheet Arrangements
+As of March 31, 2026 and December 31, 2025, we provided guarantees and letters of credit in the amount of CHF 161.1 million and CHF 153.2 million in favor of third parties, respectively. Of the total guarantee outstanding as of March 31, 2026 and December 31, 2025, CHF 161.1 million and CHF 153.2 million, respectively, relates to our credit facility, as discussed in the section titled "Indebtedness." Other than those items disclosed here and elsewhere in this document, we do not have any material off-balance sheet arrangements or commitments as of March 31, 2026. 
+
+Non-IFRS Measures
+Adjusted EBITDA, adjusted EBITDA margin, adjusted net income, adjusted basic EPS, adjusted diluted EPS, net working capital, and net sales on a constant currency basis are financial measures that are not defined under IFRS.
+We use these non-IFRS measures when evaluating our performance, including when making financial and operating decisions, and as a key component in the determination of variable incentive compensation for employees. We believe that, in addition to conventional measures prepared in accordance with IFRS, these non-IFRS measures enhance investor understanding of our financial and operating performance from period to period, because they enhance the comparability of results between each period, help identify trends in operating results and provide additional insight and transparency on how management evaluates the business. In particular, we believe adjusted EBITDA, adjusted EBITDA margin, adjusted net income and net working capital are measures commonly used by investors to evaluate companies in the sportswear industry.
+However, adjusted EBITDA, adjusted EBITDA margin, adjusted net income, adjusted basic EPS, adjusted diluted EPS, net working capital, and net sales on a constant currency basis should not be considered in isolation or as a substitute for other financial measures calculated and presented in accordance with IFRS and may not be comparable to similarly titled non-IFRS measures used by other companies. The tables below reconcile adjusted EBITDA, adjusted EBITDA margin, adjusted net income, adjusted basic EPS, and adjusted diluted EPS to their most directly comparable IFRS measure. See sections titled "Liquidity and Capital Resource" and "Operating Results" for reconciliations of net working capital and net sales on a constant currency basis, respectively, to their most directly comparable IFRS measure.
+11
+
+Adjusted EBITDA and Adjusted EBITDA Margin
+The table below provides a reconciliation between net income and adjusted EBITDA for the periods presented. Adjusted EBITDA margin is equal to adjusted EBITDA for the period presented as a percentage of net sales for the same period.
+
+																							
+		Three-month period ended March 31,	
+(CHF in millions)		2026		2025				% Change	
+									
+									
+Net income		103.3 			56.7 					82.2 	%	
+Exclude the impact of:									
+Income taxes		12.8 			7.2 					76.7 	%	
+Financial income		(7.0)			(7.3)					(4.1)	%	
+Financial expenses		8.0 			5.9 					35.6 	%	
+Foreign exchange result (1)
+		0.3 			14.5 					(97.9)	%	
+Depreciation and amortization		35.6 			28.3 					25.6 	%	
+Share-based compensation (2)
+		21.3 			14.6 					46.2 	%	
+									
+Adjusted EBITDA		174.3 			119.9 					45.4 	%	
+Adjusted EBITDA margin		21.0 	%		16.5 	%				27.0 	%	
+
+(1) Represents the foreign exchange gain / (loss) line item within the consolidated statements of income.
+(2) Management excludes share-based compensation expenses as we do not consider these expenses reflective of our ongoing operations and performance. 
+
+Adjusted Net Income, Adjusted Basic EPS and Adjusted Diluted EPS
+We use adjusted net income, adjusted basic EPS and adjusted diluted EPS as measures of operating performance in conjunction with related IFRS measures.
+For the purpose of operational performance measurement, we calculate adjusted net income, adjusted basic EPS and adjusted diluted EPS in a manner that fully excludes the impact of any costs related to share-based compensation and includes the tax effect on the tax-deductible portion of the non-IFRS adjustments, which we believe increases comparability of the metric from period to period, and makes it useful for management, our audit committee and investors to assess our financial performance over time. 
+Adjusted basic EPS is calculated by dividing adjusted net income by the weighted average number of ordinary shares outstanding during the period. Adjusted diluted EPS is calculated by dividing adjusted net income by the weighted average number of ordinary shares outstanding during the period on a fully diluted basis. 
+The table below provides a reconciliation between net income and adjusted net income, adjusted basic EPS and adjusted diluted EPS for the periods presented:
+
+12
+
+																											
+		Three-month period ended March 31,	
+(CHF in millions, except share and per share data)
+		2026		2026		2025		2025	
+		Class A		Class B		Class A		Class B	
+									
+									
+Net income		92.7 			10.6 			50.7 			6.0 		
+Exclude the impact of:									
+Share-based compensation (1)
+		19.1 			2.2 			13.0 			1.5 		
+									
+Tax effect of adjustments(2)
+		(0.9)			(0.1)			(0.7)			(0.1)		
+Adjusted net income		110.8 			12.7 			63.1 			7.4 		
+									
+									
+									
+Weighted number of outstanding shares		297,510,233 			341,241,680 			293,337,960 			345,437,500 		
+Weighted number of shares with dilutive effects(3)
+		3,471,278 			5,002,619 			4,460,419 			13,487,132 		
+Weighted number of outstanding shares (diluted and undiluted)(3)
+		300,981,511 			346,244,299 			297,798,379 			358,924,632 		
+									
+Adjusted basic EPS (CHF)		0.37 			0.04 			0.22		0.02	
+Adjusted diluted EPS (CHF)		0.37 			0.04 			0.21		0.02	
+
+(1)  Management excludes share-based compensation expenses as we do not consider these expenses reflective of our ongoing operations and performance. 
+(2)  The tax effect has been calculated by applying the local tax rate on the tax-deductible portion of the respective adjustments.
+(3)  Weighted numbers of outstanding shares are presented herein in order to calculate adjusted basic EPS in relation to adjusted net income for such periods. Weighted numbers of outstanding shares (diluted and undiluted) are presented herein in order to calculate adjusted diluted EPS in relation to adjusted net income for such periods.
+
+Net Sales on a Constant Currency Basis 
+Net sales on a constant currency basis is a non-IFRS measure which represents current period results that have been retranslated using exchange rates used in the prior year comparative period. We provide constant currency percent change in net sales within our "Key Financial and Operating Metrics" and "Operating Results" sections, to enhance the visibility of the underlying growth rate of net sales, excluding the impact of foreign currency exchange rate fluctuations.
+
+13
+
+Factors Affecting Performance and Trend Information
+We expect our growth, financial condition, cash flows, and results of operations will continue to be affected by a number of factors and trends. Refer to "Item 5. Operating and Financial Review and Prospects" within our Annual Report for further information on these factors. Below, we have included recent updates.
+
+Customs and duty expenses
+Beginning in April 2025, the United States ("U.S") implemented new tariffs as part of its trade policy, including both baseline tariffs and higher country-specific reciprocal tariffs on imports from all countries. Additionally, on July 31, 2025, an executive order ("Executive Order") was signed confirming the tariff rates on various trading partner countries, including a fixed reciprocal import tariff of 20% on Vietnam (applied in addition to the existing 20% import tariff in Vietnam). The confirmed tariff rates under the Executive Order became effective on August 8th, 2025. 
+On February 20, 2026, the U.S. Supreme Court invalidated specific tariffs levied under the International Emergency Economic Powers Act (“IEEPA”), and the U.S government ceased collecting these tariffs on February 24, 2026. On April 20, 2026, the U.S. Customs and Border Protection introduced an electronic system to manage refunds for these IEEPA tariffs. 
+As of March 31, 2026, our total IEEPA tariffs paid are approximately CHF 55 million. The ultimate timing, availability and amount of any potential refunds of these tariffs is highly uncertain. As such, we have determined that potential recovery of any funds is not highly probable. We will continue to monitor changes to the import and export policies of the U.S. and other countries, including the imposition of additional tariffs, that could impact our financial position, results of operations and cash flows.
+
+Macroeconomic Conditions
+Global events, including the recent military conflict in the Middle East, have resulted in worldwide geopolitical and macroeconomic uncertainty, and we cannot predict how these conflicts will evolve or the timing and effects thereof. Continued instability could adversely affect consumer demand and our sales and growth in those markets. In addition, the conflict could further disrupt regional trade routes. We will continue to monitor the situation and the potential impact it may have on consumer patterns and sentiment in the Middle East and other regions.
+
+Functional Currency Change
+Effective January 1, 2026, On Holding AG (the Group's parent company) and On AG (the Group's main trading entity) have changed their functional currency from the Swiss Franc (CHF) to the U.S Dollar (USD). These changes were accounted for prospectively and did not impact prior period financial statements. The Group’s presentation currency remains in CHF. 
+As a result, during the three months ended March 31, 2026, the effect of exchange rate changes on USD-denominated monetary assets and liabilities was reduced, resulting in reduced volatility within line item foreign exchange gains / (losses) in our consolidated profit or loss statements. We expect this lower volatility, as a result of the reduced effect of exchange rate changes on USD-denominated monetary assets and liabilities, to continue in 2026 and future periods. 
+Additionally, in the first quarter of 2026, we are recording adjustments in other comprehensive income / (loss) to translate these entities' financial statements from USD to CHF (our presentation currency), which led to increased volatility within other comprehensive income / (loss). We expect the increased volatility arising from the translation of these entities' financial statements from USD to CHF to continue throughout 2026 and into future periods.
+Refer to note "6.6 Events after the balance sheet date" and "Item 5.B Liquidity and capital resources" within our Annual Report, available at www.sec.gov., for additional information on the aforementioned functional currency change. 
+14
+
+New Accounting Pronouncements
+There have been no material changes related to recently issued or adopted accounting standards from those disclosed in our consolidated financial statements for the year ended December 31, 2025, included in our Annual Report, available at www.sec.gov.
+
+Critical Accounting Policies
+There have been no material changes to the key estimates, assumptions and judgments from those disclosed in our consolidated financial statements for the year ended December 31, 2025 included in our Annual Report, available at www.sec.gov.
+
+Risk Factors
+There have been no material changes to the risk factors as set out in our 2025 Annual Report, available at www.sec.gov. 
+
+Special Note Regarding Forward-Looking Statements
+This management's discussion and analysis contains statements that may constitute “forward-looking” statements pursuant to the “safe harbor” provisions of the U.S. Private Securities Litigation Reform Act of 1995, Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934. Many of the forward-looking statements contained in this management’s discussion and analysis can be identified by the use of forward-looking words such as “anticipate,” “believe,” “continue,” “could,” “expect,” “estimate,” “forecast,” “intend,” “may,” “plan,” “potential,” “predict,” “project,” “target,” “will,” “would,” and “should,” among others.
+Among other things, On’s quotations from management in the press releases and other written materials, as well as On’s strategic and operational plans, contain forward-looking statements. On may also make written or oral forward-looking statements in its periodic reports to the SEC, in its annual report to shareholders, in press releases and other written materials and in oral statements made by its officers, directors or employees to third parties. Forward-looking statements appear in a number of places in this management’s discussion and analysis and include, but are not limited to, statements regarding our intent, belief or current expectations. Forward-looking statements are based on our management’s beliefs and assumptions and on information currently available to our management. 
+Such statements are subject to risks and uncertainties, and actual results may differ materially from those expressed or implied in the forward-looking statements due to various factors, including, but not limited to, those identified under the section titled “Risk Factors” in our Annual Report. These risks and uncertainties include factors relating to: the strength of our brand and our ability to maintain our reputation and premium brand image; our ability and the ability of our independent manufacturers and other suppliers to follow responsible business practices; our ability to implement our growth strategy; the concentration of our business in a single, discretionary product category, namely footwear, apparel and accessories; our ability to continue to innovate and meet consumer expectations; changes in consumer tastes and preferences including in products and sustainability, and our ability to connect with our consumer base; our ability to open new stores at locations that will attract customers to our premium products; our ability to compete and conduct our business in the future; health epidemics, pandemics and similar outbreaks; general economic, political, demographic and business conditions worldwide, including geopolitical uncertainty and instability, such as the on-going Russia-Ukraine or Israel-Hamas conflicts and on-going shipping disruptions in the Red Sea and surrounding waterways; the success of operating initiatives, including advertising and promotional efforts and new product and concept development by us and our competitors; our ability to successfully develop, implement, and scale our LightSpray™ technology and products developed using this technology; our ability to strengthen and grow our DTC channel; our ability to address climate related risks; our ability to execute and manage our sustainability strategy and achieve our sustainability-related goals and targets, including sustainable product offerings and investor and customer scrutiny; our third-party suppliers, manufacturers and other partners, including their financial stability and our ability to find suitable partners to implement our growth strategy; supply chain disruptions, inflation and increased costs in supplies, goods and transportation, customs and duty expenses, and foreign exchange rates; the availability of qualified personnel and the ability to retain such personnel, including our Extended Founder Team; our ability to accurately forecast demand for our products and manage product manufacturing decisions; our ability to distribute products through our wholesale channel; changes in commodity, material, labor, distribution and other operating costs; our international operations; our ability to protect our intellectual property and defend against allegations of violations of third-party intellectual property by us; cybersecurity incidents and other disruptions to our information technology ("IT") systems; increased hacking activity against the critical infrastructure of any nation or organization that retaliates against Russia for its invasion of Ukraine; our reliance on complex IT systems; our ability to adopt and monitor generative artificial intelligence ("AI") technologies in our operations; changes and contemplation of changes 
+15
+
+to trade policies, tariffs and import/export regulations in the United States and other jurisdictions; financial accounting and tax matters; our ability to maintain effective internal control over financial reporting; the potential impact of, and our compliance with, new and existing laws and regulations; other factors that may affect our financial condition, liquidity and results of operations; and other risks and uncertainties set out in filings made from time to time with the SEC and available at www.sec.gov, including, without limitation, our most recent reports on Form 20-F and Form 6-K. You are urged to consider these factors carefully in evaluating the forward looking statements contained herein and are cautioned not to place undue reliance on such forward-looking statements, which are qualified in their entirety by these cautionary statements. 
+Forward-looking statements speak only as of the date they are made, and we do not undertake any obligation to update them in light of new information or future developments or to release publicly any revisions to these statements in order to reflect later events or circumstances or to reflect the occurrence of unanticipated events.
+
+16
+
+Appendix: Consolidated Financial Information 
+
+Consolidated interim statements of income 
+(unaudited)
+
+															
+		Three-month period ended March 31,	
+(CHF in millions, except per share data)
+		2026		2025	
+					
+					
+Net sales		831.9 			726.6 		
+Cost of sales		(297.6)			(291.3)		
+Gross profit		534.3 			435.3 		
+Selling, general and administrative expenses		(416.9)			(358.2)		
+Operating result		117.4 			77.0 		
+Financial income		7.0 			7.3 		
+Financial expenses		(8.0)			(5.9)		
+Foreign exchange gain / (loss)		(0.3)			(14.5)		
+Income before taxes		116.1 			63.9 		
+Income tax expense		(12.8)			(7.2)		
+Net income		103.3 			56.7 		
+Earnings per share					
+Basic EPS Class A (CHF)		0.31 			0.17 		
+Basic EPS Class B (CHF)		0.03 			0.02	
+					
+Diluted EPS Class A (CHF)		0.31 			0.17 		
+Diluted EPS Class B (CHF)		0.03 			0.02	
+
+17
+
+Consolidated interim statements of comprehensive income 
+(unaudited)
+
+																			
+		Three-month period ended March 31,					
+(CHF in millions)		2026		2025					
+									
+									
+Net income		103.3 			56.7 						
+									
+									
+									
+									
+									
+Foreign currency translation effect
+		18.9 			(10.2)						
+Taxes on foreign currency translation effect
+		— 			1.3 						
+Items that will be reclassified to income statement when specific conditions are met		18.9 			(8.9)						
+Other comprehensive income / (loss), net of tax		18.9 			(8.9)						
+Total comprehensive income		122.2 			47.8 						
+
+18
+
+Consolidated interim balance sheets 
+(unaudited)
+																					
+(CHF in millions)		3/31/2026		12/31/2025			
+							
+							
+Cash and cash equivalents 		1,020.4 			1,019.9 				
+Trade receivables		402.6 			305.4 				
+Inventories		406.0 			419.8 				
+Other current financial assets		71.5 			59.2 				
+Other current operating assets		152.8 			158.2 				
+							
+Current assets		2,053.3 			1,962.4 				
+							
+Property, plant and equipment		161.1 			148.8 				
+Right-of-use assets		511.1 			494.1 				
+Intangible assets		54.1 			54.2 				
+							
+Deferred tax assets		184.1 			175.9 				
+							
+							
+Non-current assets		910.4 			873.0 				
+							
+Assets		2,963.7 			2,835.4 				
+							
+Trade payables		157.8 			154.8 				
+Current lease liabilities		84.8 			81.2 				
+Other current financial liabilities		52.2 			56.7 				
+Other current operating liabilities		323.8 			355.4 				
+Current provisions		14.4 			13.0 				
+Income tax liabilities		55.7 			63.2 				
+							
+Current liabilities		688.6 			724.4 				
+							
+Employee benefit obligations		6.4 			5.5 				
+Non-current provisions		25.2 			20.7 				
+Non-current lease liabilities		457.1 			440.3 				
+Other non-current financial liabilities		5.8 			2.8 				
+Deferred tax liabilities		8.8 			9.3 				
+							
+							
+Non-current liabilities		503.3 			478.6 				
+							
+Share capital		34.1 			34.1 				
+Treasury shares		(26.5)			(26.7)				
+Capital reserves		1,306.0 			1,289.0 				
+Other reserves		(27.7)			(46.6)				
+Retained earnings		485.9 			382.6 				
+							
+Equity		1,771.8 			1,632.4 				
+							
+Equity and liabilities		2,963.7 			2,835.4 				
+
+19
+
+Consolidated interim statements of cash flows 
+(unaudited)
+															
+		Three-month period ended March 31,	
+(CHF in millions)		2026		2025	
+					
+					
+Net income		103.3 			56.7 		
+Adjustments for:					
+Share-based compensation		16.2 			11.6 		
+Employee benefit expenses		0.8 			0.8 		
+Depreciation and amortization		35.6 			28.3 		
+					
+Interest income and expenses		(2.3)			(3.3)		
+Net exchange differences		(2.5)			26.7 		
+Income taxes		12.8 			7.2 		
+					
+					
+Change in working capital		(73.4)			(120.3)		
+Trade receivables		(92.5)			(124.7)		
+Inventories		21.2 			8.0 		
+Trade payables		(2.0)			(3.5)		
+Change in other current assets / liabilities		(46.1)			(3.6)		
+Change in provisions		3.6 			— 		
+Interest received		8.4 			7.3 		
+Income taxes paid		(27.3)			(23.6)		
+Cash inflow / (outflow) from operating activities		29.1 			(12.1)		
+					
+Purchase of property, plant and equipment		(16.7)			(11.3)		
+					
+Purchase of intangible assets		(2.0)			(0.8)		
+					
+					
+					
+					
+					
+					
+					
+Cash (outflow) from investing activities		(18.7)			(12.1)		
+					
+					
+					
+Payments of lease liabilities		(15.7)			(14.0)		
+					
+					
+					
+					
+					
+Proceeds on sale of treasury shares related to share-based compensation		0.8 			6.1 		
+					
+Interest paid		(6.0)			(4.0)		
+					
+Cash (outflow) from financing activities		(20.9)			(12.0)		
+					
+Change in cash and cash equivalents		(10.3)			(36.3)		
+Cash and cash equivalents balance at beginning of the year		1,019.9 			924.3 		
+Net impact of foreign exchange rate differences		10.8 			(16.1)		
+Cash and cash equivalents balance at end of the period		1,020.4 			871.8 		
+
+20
+
+Consolidated interim statements of changes in equity 
+(unaudited)
+
+																																							
+(CHF in millions)		Share capital		Treasury shares		Capital reserves		Other reserves		Retained earnings		Total equity	
+													
+													
+Balance as of December 31, 2024		33.7 			(26.8)			1,210.0 			(4.0)			178.9 			1,391.8 		
+Net income		— 			— 			— 			— 			56.7 			56.7 		
+Other comprehensive loss		— 			— 			— 			(8.9)			— 			(8.9)		
+Comprehensive income / (loss) for the three months ended March 31, 2025		— 			— 			— 			(8.9)			56.7 			47.8 		
+													
+													
+													
+Share-based compensation		— 			— 			11.6 			— 			— 			11.6 		
+Sale of treasury shares		— 			0.2 			6.0 			— 			— 			6.2 		
+													
+													
+													
+Balance as of March 31, 2025		33.7 			(26.6)			1,227.6 			(12.9)			235.6 			1,457.4 		
+													
+Balance as of December 31, 2025		34.1 			(26.7)			1,289.0 			(46.6)			382.6 			1,632.4 		
+Net income		— 			— 			— 			— 			103.3 			103.3 		
+Other comprehensive income		— 			— 			— 			18.9 			— 			18.9 		
+Comprehensive income for the three months ended March 31, 2026		— 			— 			— 			18.9 			103.3 			122.2 		
+													
+													
+													
+													
+Share-based compensation		— 			— 			16.2 			— 			— 			16.2 		
+Sale of treasury shares		— 			0.2 			0.8 			— 			— 			1.0 		
+													
+													
+Balance as of March 31, 2026		34.1 			(26.5)			1,306.0 			(27.7)			485.9 			1,771.8 		
+
+21

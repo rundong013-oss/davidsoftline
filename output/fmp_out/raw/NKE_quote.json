@@ -1,0 +1,21 @@
+[
+ {
+  "symbol": "NKE",
+  "name": "NIKE, Inc.",
+  "price": 35.99,
+  "changePercentage": -0.16644,
+  "change": -0.06,
+  "volume": 38150546,
+  "dayLow": 35.52,
+  "dayHigh": 36.1399,
+  "yearHigh": 76.97,
+  "yearLow": 35.35,
+  "marketCap": 53258405988,
+  "priceAvg50": 39.9944,
+  "priceAvg200": 49.78155,
+  "exchange": "NYSE",
+  "open": 36,
+  "previousClose": 36.05,
+  "timestamp": 1790280003
+ }
+]

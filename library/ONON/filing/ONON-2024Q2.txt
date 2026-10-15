@@ -1,0 +1,816 @@
+onholdingag-20240630falseQ2000185898512/316/30/2024oneiso4217:CHFiso4217:CHFxbrli:sharesxbrli:pureonholdingag:salesChannelonholdingag:Reporting_Segmentxbrli:sharesonholdingag:shares00018589852024-01-012024-06-3000018589852024-04-012024-06-3000018589852023-04-012023-06-3000018589852023-01-012023-06-300001858985onholdingag:ClassASharesMember2024-04-012024-06-300001858985onholdingag:ClassASharesMember2023-04-012023-06-300001858985onholdingag:ClassASharesMember2024-01-012024-06-300001858985onholdingag:ClassASharesMember2023-01-012023-06-300001858985onholdingag:ClassBVotingSharesMember2024-04-012024-06-300001858985onholdingag:ClassBVotingSharesMember2023-04-012023-06-300001858985onholdingag:ClassBVotingSharesMember2024-01-012024-06-300001858985onholdingag:ClassBVotingSharesMember2023-01-012023-06-3000018589852024-06-3000018589852023-12-3100018589852022-12-3100018589852023-06-300001858985ifrs-full:IssuedCapitalMember2023-03-310001858985ifrs-full:TreasurySharesMember2023-03-310001858985ifrs-full:CapitalReserveMember2023-03-310001858985ifrs-full:OtherReservesMember2023-03-310001858985ifrs-full:RetainedEarningsMember2023-03-3100018589852023-03-310001858985ifrs-full:RetainedEarningsMember2023-04-012023-06-300001858985ifrs-full:OtherReservesMember2023-04-012023-06-300001858985ifrs-full:CapitalReserveMember2023-04-012023-06-300001858985ifrs-full:TreasurySharesMember2023-04-012023-06-300001858985ifrs-full:IssuedCapitalMember2023-06-300001858985ifrs-full:TreasurySharesMember2023-06-300001858985ifrs-full:CapitalReserveMember2023-06-300001858985ifrs-full:OtherReservesMember2023-06-300001858985ifrs-full:RetainedEarningsMember2023-06-300001858985ifrs-full:IssuedCapitalMember2024-03-310001858985ifrs-full:TreasurySharesMember2024-03-310001858985ifrs-full:CapitalReserveMember2024-03-310001858985ifrs-full:OtherReservesMember2024-03-310001858985ifrs-full:RetainedEarningsMember2024-03-3100018589852024-03-310001858985ifrs-full:RetainedEarningsMember2024-04-012024-06-300001858985ifrs-full:OtherReservesMember2024-04-012024-06-300001858985ifrs-full:CapitalReserveMember2024-04-012024-06-300001858985ifrs-full:TreasurySharesMember2024-04-012024-06-300001858985ifrs-full:IssuedCapitalMember2024-06-300001858985ifrs-full:TreasurySharesMember2024-06-300001858985ifrs-full:CapitalReserveMember2024-06-300001858985ifrs-full:OtherReservesMember2024-06-300001858985ifrs-full:RetainedEarningsMember2024-06-300001858985ifrs-full:IssuedCapitalMember2022-12-310001858985ifrs-full:TreasurySharesMember2022-12-310001858985ifrs-full:CapitalReserveMember2022-12-310001858985ifrs-full:OtherReservesMember2022-12-310001858985ifrs-full:RetainedEarningsMember2022-12-310001858985ifrs-full:RetainedEarningsMember2023-01-012023-06-300001858985ifrs-full:OtherReservesMember2023-01-012023-06-300001858985ifrs-full:CapitalReserveMember2023-01-012023-06-300001858985ifrs-full:TreasurySharesMember2023-01-012023-06-300001858985ifrs-full:IssuedCapitalMember2023-12-310001858985ifrs-full:TreasurySharesMember2023-12-310001858985ifrs-full:CapitalReserveMember2023-12-310001858985ifrs-full:OtherReservesMember2023-12-310001858985ifrs-full:RetainedEarningsMember2023-12-310001858985ifrs-full:RetainedEarningsMember2024-01-012024-06-300001858985ifrs-full:OtherReservesMember2024-01-012024-06-300001858985ifrs-full:CapitalReserveMember2024-01-012024-06-300001858985ifrs-full:TreasurySharesMember2024-01-012024-06-300001858985onholdingag:OnAGMember2024-01-012024-06-300001858985onholdingag:OnAGMember2023-01-012023-12-310001858985onholdingag:OnBrazilLtdaMember2024-01-012024-06-300001858985onholdingag:OnBrazilLtdaMember2023-01-012023-12-310001858985onholdingag:OnCloudServiceGmbHMember2024-01-012024-06-300001858985onholdingag:OnCloudServiceGmbHMember2023-01-012023-12-310001858985onholdingag:OnCloudsGmbHMember2024-01-012024-06-300001858985onholdingag:OnCloudsGmbHMember2023-01-012023-12-310001858985onholdingag:OnCloudIncMember2024-01-012024-06-300001858985onholdingag:OnCloudIncMember2023-01-012023-12-310001858985onholdingag:OnEuropeAGMember2024-01-012024-06-300001858985onholdingag:OnEuropeAGMember2023-01-012023-12-310001858985onholdingag:OnExperience1LLCMember2024-01-012024-06-300001858985onholdingag:OnExperience1LLCMember2023-01-012023-12-310001858985onholdingag:OnExperience2LLCMember2024-01-012024-06-300001858985onholdingag:OnExperience2LLCMember2023-01-012023-12-310001858985onholdingag:OnExperience3LLCMember2024-01-012024-06-300001858985onholdingag:OnExperience3LLCMember2023-01-012023-12-310001858985onholdingag:OnExperience4LLCMember2024-01-012024-06-300001858985onholdingag:OnExperience4LLCMember2023-01-012023-12-310001858985onholdingag:OnExperience5LLCMember2024-01-012024-06-300001858985onholdingag:OnExperience5LLCMember2023-01-012023-12-310001858985onholdingag:OnExperience6LLCMember2024-01-012024-06-300001858985onholdingag:OnExperience6LLCMember2023-01-012023-12-310001858985onholdingag:OnExperience7LLCMember2024-01-012024-06-300001858985onholdingag:OnExperience7LLCMember2023-01-012023-12-310001858985onholdingag:OnExperience8LLCMember2024-01-012024-06-300001858985onholdingag:OnExperience8LLCMember2023-01-012023-12-310001858985onholdingag:OnExperience9LLCMember2024-01-012024-06-300001858985onholdingag:OnExperience9LLCMember2023-01-012023-12-310001858985onholdingag:OnExperience10LLCMember2024-01-012024-06-300001858985onholdingag:OnExperience10LLCMember2023-01-012023-12-310001858985onholdingag:OnHongKongLtdMember2024-01-012024-06-300001858985onholdingag:OnHongKongLtdMember2023-01-012023-12-310001858985onholdingag:OnIncMember2024-01-012024-06-300001858985onholdingag:OnIncMember2023-01-012023-12-310001858985onholdingag:OnItalySrlMember2024-01-012024-06-300001858985onholdingag:OnItalySrlMember2023-01-012023-12-310001858985onholdingag:OnJapanKKMember2024-01-012024-06-300001858985onholdingag:OnJapanKKMember2023-01-012023-12-310001858985onholdingag:OnKoreaLtdMember2024-01-012024-06-300001858985onholdingag:OnKoreaLtdMember2023-01-012023-12-310001858985onholdingag:OnOceaniaPtyLtdMember2024-01-012024-06-300001858985onholdingag:OnOceaniaPtyLtdMember2023-01-012023-12-310001858985onholdingag:OnRunningCanadaIncMember2024-01-012024-06-300001858985onholdingag:OnRunningCanadaIncMember2023-01-012023-12-310001858985onholdingag:OnRunningSportsProductsShanghaiCompanyLtdMember2024-01-012024-06-300001858985onholdingag:OnRunningSportsProductsShanghaiCompanyLtdMember2023-01-012023-12-310001858985onholdingag:OnRunningUKLtdMember2024-01-012024-06-300001858985onholdingag:OnRunningUKLtdMember2023-01-012023-12-310001858985onholdingag:OnVietnamCompanyLtdMember2024-01-012024-06-300001858985onholdingag:OnVietnamCompanyLtdMember2023-01-012023-12-310001858985onholdingag:BrunnerMettlerGmbHMember2024-01-012024-06-300001858985onholdingag:BrunnerMettlerGmbHMember2023-01-012023-12-310001858985ifrs-full:GoodsSoldThroughIntermediariesMember2024-04-012024-06-300001858985ifrs-full:GoodsSoldThroughIntermediariesMember2023-04-012023-06-300001858985ifrs-full:GoodsSoldThroughIntermediariesMember2024-01-012024-06-300001858985ifrs-full:GoodsSoldThroughIntermediariesMember2023-01-012023-06-300001858985ifrs-full:GoodsSoldDirectlyToConsumersMember2024-04-012024-06-300001858985ifrs-full:GoodsSoldDirectlyToConsumersMember2023-04-012023-06-300001858985ifrs-full:GoodsSoldDirectlyToConsumersMember2024-01-012024-06-300001858985ifrs-full:GoodsSoldDirectlyToConsumersMember2023-01-012023-06-300001858985onholdingag:ShoesMember2024-04-012024-06-300001858985onholdingag:ShoesMember2023-04-012023-06-300001858985onholdingag:ShoesMember2024-01-012024-06-300001858985onholdingag:ShoesMember2023-01-012023-06-300001858985onholdingag:ApparelMember2024-04-012024-06-300001858985onholdingag:ApparelMember2023-04-012023-06-300001858985onholdingag:ApparelMember2024-01-012024-06-300001858985onholdingag:ApparelMember2023-01-012023-06-300001858985onholdingag:AccessoriesMember2024-04-012024-06-300001858985onholdingag:AccessoriesMember2023-04-012023-06-300001858985onholdingag:AccessoriesMember2024-01-012024-06-300001858985onholdingag:AccessoriesMember2023-01-012023-06-300001858985onholdingag:EuropeMiddleEastAndAfricaMember2024-04-012024-06-300001858985onholdingag:EuropeMiddleEastAndAfricaMember2023-04-012023-06-300001858985onholdingag:EuropeMiddleEastAndAfricaMember2024-01-012024-06-300001858985onholdingag:EuropeMiddleEastAndAfricaMember2023-01-012023-06-300001858985srt:AmericasMember2024-04-012024-06-300001858985srt:AmericasMember2023-04-012023-06-300001858985srt:AmericasMember2024-01-012024-06-300001858985srt:AmericasMember2023-01-012023-06-300001858985srt:AsiaPacificMember2024-04-012024-06-300001858985srt:AsiaPacificMember2023-04-012023-06-300001858985srt:AsiaPacificMember2024-01-012024-06-300001858985srt:AsiaPacificMember2023-01-012023-06-300001858985ifrs-full:SellingGeneralAndAdministrativeExpenseMember2024-01-012024-06-300001858985ifrs-full:SellingGeneralAndAdministrativeExpenseMember2023-01-012023-06-300001858985ifrs-full:CostOfSalesMember2024-01-012024-06-300001858985ifrs-full:CostOfSalesMember2023-01-012023-06-300001858985ifrs-full:TradeReceivablesMemberifrs-full:GrossCarryingAmountMember2024-06-300001858985ifrs-full:TradeReceivablesMemberifrs-full:GrossCarryingAmountMember2023-12-310001858985ifrs-full:TradeReceivablesMemberifrs-full:AccumulatedImpairmentMember2024-06-300001858985ifrs-full:TradeReceivablesMemberifrs-full:AccumulatedImpairmentMember2023-12-310001858985ifrs-full:TradeReceivablesMember2024-06-300001858985ifrs-full:TradeReceivablesMember2023-12-310001858985onholdingag:ShoesMemberifrs-full:GrossCarryingAmountMember2024-06-300001858985onholdingag:ShoesMemberifrs-full:GrossCarryingAmountMember2023-12-310001858985onholdingag:ApparelMemberifrs-full:GrossCarryingAmountMember2024-06-300001858985onholdingag:ApparelMemberifrs-full:GrossCarryingAmountMember2023-12-310001858985onholdingag:AccessoriesMemberifrs-full:GrossCarryingAmountMember2024-06-300001858985onholdingag:AccessoriesMemberifrs-full:GrossCarryingAmountMember2023-12-310001858985ifrs-full:AccumulatedImpairmentMember2024-06-300001858985ifrs-full:AccumulatedImpairmentMember2023-12-310001858985ifrs-full:LeaseholdImprovementsMemberifrs-full:GrossCarryingAmountMember2022-12-310001858985onholdingag:TradeToolsMemberifrs-full:GrossCarryingAmountMember2022-12-310001858985onholdingag:ProductionEquipmentMemberifrs-full:GrossCarryingAmountMember2022-12-310001858985ifrs-full:FixturesAndFittingsMemberifrs-full:GrossCarryingAmountMember2022-12-310001858985ifrs-full:OtherPropertyPlantAndEquipmentMemberifrs-full:GrossCarryingAmountMember2022-12-310001858985ifrs-full:GrossCarryingAmountMember2022-12-310001858985ifrs-full:LeaseholdImprovementsMemberifrs-full:AccumulatedDepreciationAndAmortisationMember2022-12-310001858985onholdingag:TradeToolsMemberifrs-full:AccumulatedDepreciationAndAmortisationMember2022-12-310001858985onholdingag:ProductionEquipmentMemberifrs-full:AccumulatedDepreciationAndAmortisationMember2022-12-310001858985ifrs-full:FixturesAndFittingsMemberifrs-full:AccumulatedDepreciationAndAmortisationMember2022-12-310001858985ifrs-full:OtherPropertyPlantAndEquipmentMemberifrs-full:AccumulatedDepreciationAndAmortisationMember2022-12-310001858985ifrs-full:AccumulatedDepreciationAndAmortisationMember2022-12-310001858985ifrs-full:LeaseholdImprovementsMember2022-12-310001858985onholdingag:TradeToolsMember2022-12-310001858985onholdingag:ProductionEquipmentMember2022-12-310001858985ifrs-full:FixturesAndFittingsMember2022-12-310001858985ifrs-full:OtherPropertyPlantAndEquipmentMember2022-12-310001858985ifrs-full:LeaseholdImprovementsMember2023-01-012023-06-300001858985onholdingag:TradeToolsMember2023-01-012023-06-300001858985onholdingag:ProductionEquipmentMember2023-01-012023-06-300001858985ifrs-full:FixturesAndFittingsMember2023-01-012023-06-300001858985ifrs-full:OtherPropertyPlantAndEquipmentMember2023-01-012023-06-300001858985ifrs-full:LeaseholdImprovementsMember2023-06-300001858985onholdingag:TradeToolsMember2023-06-300001858985onholdingag:ProductionEquipmentMember2023-06-300001858985ifrs-full:FixturesAndFittingsMember2023-06-300001858985ifrs-full:OtherPropertyPlantAndEquipmentMember2023-06-300001858985ifrs-full:LeaseholdImprovementsMemberifrs-full:GrossCarryingAmountMember2023-06-300001858985onholdingag:TradeToolsMemberifrs-full:GrossCarryingAmountMember2023-06-300001858985onholdingag:ProductionEquipmentMemberifrs-full:GrossCarryingAmountMember2023-06-300001858985ifrs-full:FixturesAndFittingsMemberifrs-full:GrossCarryingAmountMember2023-06-300001858985ifrs-full:OtherPropertyPlantAndEquipmentMemberifrs-full:GrossCarryingAmountMember2023-06-300001858985ifrs-full:GrossCarryingAmountMember2023-06-300001858985ifrs-full:LeaseholdImprovementsMemberifrs-full:AccumulatedDepreciationAndAmortisationMember2023-06-300001858985onholdingag:TradeToolsMemberifrs-full:AccumulatedDepreciationAndAmortisationMember2023-06-300001858985onholdingag:ProductionEquipmentMemberifrs-full:AccumulatedDepreciationAndAmortisationMember2023-06-300001858985ifrs-full:FixturesAndFittingsMemberifrs-full:AccumulatedDepreciationAndAmortisationMember2023-06-300001858985ifrs-full:OtherPropertyPlantAndEquipmentMemberifrs-full:AccumulatedDepreciationAndAmortisationMember2023-06-300001858985ifrs-full:AccumulatedDepreciationAndAmortisationMember2023-06-300001858985ifrs-full:LeaseholdImprovementsMemberifrs-full:GrossCarryingAmountMember2023-12-310001858985onholdingag:TradeToolsMemberifrs-full:GrossCarryingAmountMember2023-12-310001858985onholdingag:ProductionEquipmentMemberifrs-full:GrossCarryingAmountMember2023-12-310001858985ifrs-full:FixturesAndFittingsMemberifrs-full:GrossCarryingAmountMember2023-12-310001858985ifrs-full:OtherPropertyPlantAndEquipmentMemberifrs-full:GrossCarryingAmountMember2023-12-310001858985ifrs-full:GrossCarryingAmountMember2023-12-310001858985ifrs-full:LeaseholdImprovementsMemberifrs-full:AccumulatedDepreciationAndAmortisationMember2023-12-310001858985onholdingag:TradeToolsMemberifrs-full:AccumulatedDepreciationAndAmortisationMember2023-12-310001858985onholdingag:ProductionEquipmentMemberifrs-full:AccumulatedDepreciationAndAmortisationMember2023-12-310001858985ifrs-full:FixturesAndFittingsMemberifrs-full:AccumulatedDepreciationAndAmortisationMember2023-12-310001858985ifrs-full:OtherPropertyPlantAndEquipmentMemberifrs-full:AccumulatedDepreciationAndAmortisationMember2023-12-310001858985ifrs-full:AccumulatedDepreciationAndAmortisationMember2023-12-310001858985ifrs-full:LeaseholdImprovementsMember2023-12-310001858985onholdingag:TradeToolsMember2023-12-310001858985onholdingag:ProductionEquipmentMember2023-12-310001858985ifrs-full:FixturesAndFittingsMember2023-12-310001858985ifrs-full:OtherPropertyPlantAndEquipmentMember2023-12-310001858985ifrs-full:LeaseholdImprovementsMember2024-01-012024-06-300001858985onholdingag:TradeToolsMember2024-01-012024-06-300001858985onholdingag:ProductionEquipmentMember2024-01-012024-06-300001858985ifrs-full:FixturesAndFittingsMember2024-01-012024-06-300001858985ifrs-full:OtherPropertyPlantAndEquipmentMember2024-01-012024-06-300001858985ifrs-full:LeaseholdImprovementsMember2024-06-300001858985onholdingag:TradeToolsMember2024-06-300001858985onholdingag:ProductionEquipmentMember2024-06-300001858985ifrs-full:FixturesAndFittingsMember2024-06-300001858985ifrs-full:OtherPropertyPlantAndEquipmentMember2024-06-300001858985ifrs-full:LeaseholdImprovementsMemberifrs-full:GrossCarryingAmountMember2024-06-300001858985onholdingag:TradeToolsMemberifrs-full:GrossCarryingAmountMember2024-06-300001858985onholdingag:ProductionEquipmentMemberifrs-full:GrossCarryingAmountMember2024-06-300001858985ifrs-full:FixturesAndFittingsMemberifrs-full:GrossCarryingAmountMember2024-06-300001858985ifrs-full:OtherPropertyPlantAndEquipmentMemberifrs-full:GrossCarryingAmountMember2024-06-300001858985ifrs-full:GrossCarryingAmountMember2024-06-300001858985ifrs-full:LeaseholdImprovementsMemberifrs-full:AccumulatedDepreciationAndAmortisationMember2024-06-300001858985onholdingag:TradeToolsMemberifrs-full:AccumulatedDepreciationAndAmortisationMember2024-06-300001858985onholdingag:ProductionEquipmentMemberifrs-full:AccumulatedDepreciationAndAmortisationMember2024-06-300001858985ifrs-full:FixturesAndFittingsMemberifrs-full:AccumulatedDepreciationAndAmortisationMember2024-06-300001858985ifrs-full:OtherPropertyPlantAndEquipmentMemberifrs-full:AccumulatedDepreciationAndAmortisationMember2024-06-300001858985ifrs-full:AccumulatedDepreciationAndAmortisationMember2024-06-300001858985srt:WarehouseMemberifrs-full:GrossCarryingAmountMember2022-12-310001858985onholdingag:StoresAndShowroomsMemberifrs-full:GrossCarryingAmountMember2022-12-310001858985srt:OfficeBuildingMemberifrs-full:GrossCarryingAmountMember2022-12-310001858985ifrs-full:VehiclesMemberifrs-full:GrossCarryingAmountMember2022-12-310001858985srt:WarehouseMemberifrs-full:AccumulatedDepreciationAndAmortisationMember2022-12-310001858985onholdingag:StoresAndShowroomsMemberifrs-full:AccumulatedDepreciationAndAmortisationMember2022-12-310001858985srt:OfficeBuildingMemberifrs-full:AccumulatedDepreciationAndAmortisationMember2022-12-310001858985ifrs-full:VehiclesMemberifrs-full:AccumulatedDepreciationAndAmortisationMember2022-12-310001858985srt:WarehouseMember2022-12-310001858985onholdingag:StoresAndShowroomsMember2022-12-310001858985srt:OfficeBuildingMember2022-12-310001858985ifrs-full:VehiclesMember2022-12-310001858985srt:WarehouseMember2023-01-012023-06-300001858985onholdingag:StoresAndShowroomsMember2023-01-012023-06-300001858985srt:OfficeBuildingMember2023-01-012023-06-300001858985ifrs-full:VehiclesMember2023-01-012023-06-300001858985srt:WarehouseMember2023-06-300001858985onholdingag:StoresAndShowroomsMember2023-06-300001858985srt:OfficeBuildingMember2023-06-300001858985ifrs-full:VehiclesMember2023-06-300001858985srt:WarehouseMemberifrs-full:GrossCarryingAmountMember2023-06-300001858985onholdingag:StoresAndShowroomsMemberifrs-full:GrossCarryingAmountMember2023-06-300001858985srt:OfficeBuildingMemberifrs-full:GrossCarryingAmountMember2023-06-300001858985ifrs-full:VehiclesMemberifrs-full:GrossCarryingAmountMember2023-06-300001858985srt:WarehouseMemberifrs-full:AccumulatedDepreciationAndAmortisationMember2023-06-300001858985onholdingag:StoresAndShowroomsMemberifrs-full:AccumulatedDepreciationAndAmortisationMember2023-06-300001858985srt:OfficeBuildingMemberifrs-full:AccumulatedDepreciationAndAmortisationMember2023-06-300001858985ifrs-full:VehiclesMemberifrs-full:AccumulatedDepreciationAndAmortisationMember2023-06-300001858985srt:WarehouseMemberifrs-full:GrossCarryingAmountMember2023-12-310001858985onholdingag:StoresAndShowroomsMemberifrs-full:GrossCarryingAmountMember2023-12-310001858985srt:OfficeBuildingMemberifrs-full:GrossCarryingAmountMember2023-12-310001858985ifrs-full:VehiclesMemberifrs-full:GrossCarryingAmountMember2023-12-310001858985srt:WarehouseMemberifrs-full:AccumulatedDepreciationAndAmortisationMember2023-12-310001858985onholdingag:StoresAndShowroomsMemberifrs-full:AccumulatedDepreciationAndAmortisationMember2023-12-310001858985srt:OfficeBuildingMemberifrs-full:AccumulatedDepreciationAndAmortisationMember2023-12-310001858985ifrs-full:VehiclesMemberifrs-full:AccumulatedDepreciationAndAmortisationMember2023-12-310001858985srt:WarehouseMember2023-12-310001858985onholdingag:StoresAndShowroomsMember2023-12-310001858985srt:OfficeBuildingMember2023-12-310001858985ifrs-full:VehiclesMember2023-12-310001858985srt:WarehouseMember2024-01-012024-06-300001858985onholdingag:StoresAndShowroomsMember2024-01-012024-06-300001858985srt:OfficeBuildingMember2024-01-012024-06-300001858985ifrs-full:VehiclesMember2024-01-012024-06-300001858985srt:WarehouseMember2024-06-300001858985onholdingag:StoresAndShowroomsMember2024-06-300001858985srt:OfficeBuildingMember2024-06-300001858985ifrs-full:VehiclesMember2024-06-300001858985srt:WarehouseMemberifrs-full:GrossCarryingAmountMember2024-06-300001858985onholdingag:StoresAndShowroomsMemberifrs-full:GrossCarryingAmountMember2024-06-300001858985srt:OfficeBuildingMemberifrs-full:GrossCarryingAmountMember2024-06-300001858985ifrs-full:VehiclesMemberifrs-full:GrossCarryingAmountMember2024-06-300001858985srt:WarehouseMemberifrs-full:AccumulatedDepreciationAndAmortisationMember2024-06-300001858985onholdingag:StoresAndShowroomsMemberifrs-full:AccumulatedDepreciationAndAmortisationMember2024-06-300001858985srt:OfficeBuildingMemberifrs-full:AccumulatedDepreciationAndAmortisationMember2024-06-300001858985ifrs-full:VehiclesMemberifrs-full:AccumulatedDepreciationAndAmortisationMember2024-06-300001858985ifrs-full:CopyrightsPatentsAndOtherIndustrialPropertyRightsServiceAndOperatingRightsMemberifrs-full:GrossCarryingAmountMember2022-12-310001858985ifrs-full:ComputerSoftwareMemberifrs-full:GrossCarryingAmountMember2022-12-310001858985ifrs-full:GoodwillMemberifrs-full:GrossCarryingAmountMember2022-12-310001858985ifrs-full:CopyrightsPatentsAndOtherIndustrialPropertyRightsServiceAndOperatingRightsMemberifrs-full:AccumulatedDepreciationAndAmortisationMember2022-12-310001858985ifrs-full:ComputerSoftwareMemberifrs-full:AccumulatedDepreciationAndAmortisationMember2022-12-310001858985ifrs-full:GoodwillMemberifrs-full:AccumulatedDepreciationAndAmortisationMember2022-12-310001858985ifrs-full:CopyrightsPatentsAndOtherIndustrialPropertyRightsServiceAndOperatingRightsMember2022-12-310001858985ifrs-full:ComputerSoftwareMember2022-12-310001858985ifrs-full:GoodwillMember2022-12-310001858985ifrs-full:CopyrightsPatentsAndOtherIndustrialPropertyRightsServiceAndOperatingRightsMember2023-01-012023-06-300001858985ifrs-full:ComputerSoftwareMember2023-01-012023-06-300001858985ifrs-full:GoodwillMember2023-01-012023-06-300001858985ifrs-full:CopyrightsPatentsAndOtherIndustrialPropertyRightsServiceAndOperatingRightsMember2023-06-300001858985ifrs-full:ComputerSoftwareMember2023-06-300001858985ifrs-full:GoodwillMember2023-06-300001858985ifrs-full:CopyrightsPatentsAndOtherIndustrialPropertyRightsServiceAndOperatingRightsMemberifrs-full:GrossCarryingAmountMember2023-06-300001858985ifrs-full:ComputerSoftwareMemberifrs-full:GrossCarryingAmountMember2023-06-300001858985ifrs-full:GoodwillMemberifrs-full:GrossCarryingAmountMember2023-06-300001858985ifrs-full:CopyrightsPatentsAndOtherIndustrialPropertyRightsServiceAndOperatingRightsMemberifrs-full:AccumulatedDepreciationAndAmortisationMember2023-06-300001858985ifrs-full:ComputerSoftwareMemberifrs-full:AccumulatedDepreciationAndAmortisationMember2023-06-300001858985ifrs-full:GoodwillMemberifrs-full:AccumulatedDepreciationAndAmortisationMember2023-06-300001858985ifrs-full:CopyrightsPatentsAndOtherIndustrialPropertyRightsServiceAndOperatingRightsMemberifrs-full:GrossCarryingAmountMember2023-12-310001858985ifrs-full:ComputerSoftwareMemberifrs-full:GrossCarryingAmountMember2023-12-310001858985ifrs-full:GoodwillMemberifrs-full:GrossCarryingAmountMember2023-12-310001858985ifrs-full:CopyrightsPatentsAndOtherIndustrialPropertyRightsServiceAndOperatingRightsMemberifrs-full:AccumulatedDepreciationAndAmortisationMember2023-12-310001858985ifrs-full:ComputerSoftwareMemberifrs-full:AccumulatedDepreciationAndAmortisationMember2023-12-310001858985ifrs-full:GoodwillMemberifrs-full:AccumulatedDepreciationAndAmortisationMember2023-12-310001858985ifrs-full:CopyrightsPatentsAndOtherIndustrialPropertyRightsServiceAndOperatingRightsMember2023-12-310001858985ifrs-full:ComputerSoftwareMember2023-12-310001858985ifrs-full:GoodwillMember2023-12-310001858985ifrs-full:CopyrightsPatentsAndOtherIndustrialPropertyRightsServiceAndOperatingRightsMember2024-01-012024-06-300001858985ifrs-full:ComputerSoftwareMember2024-01-012024-06-300001858985ifrs-full:GoodwillMember2024-01-012024-06-300001858985ifrs-full:CopyrightsPatentsAndOtherIndustrialPropertyRightsServiceAndOperatingRightsMember2024-06-300001858985ifrs-full:ComputerSoftwareMember2024-06-300001858985ifrs-full:GoodwillMember2024-06-300001858985ifrs-full:CopyrightsPatentsAndOtherIndustrialPropertyRightsServiceAndOperatingRightsMemberifrs-full:GrossCarryingAmountMember2024-06-300001858985ifrs-full:ComputerSoftwareMemberifrs-full:GrossCarryingAmountMember2024-06-300001858985ifrs-full:GoodwillMemberifrs-full:GrossCarryingAmountMember2024-06-300001858985ifrs-full:CopyrightsPatentsAndOtherIndustrialPropertyRightsServiceAndOperatingRightsMemberifrs-full:AccumulatedDepreciationAndAmortisationMember2024-06-300001858985ifrs-full:ComputerSoftwareMemberifrs-full:AccumulatedDepreciationAndAmortisationMember2024-06-300001858985ifrs-full:GoodwillMemberifrs-full:AccumulatedDepreciationAndAmortisationMember2024-06-300001858985ifrs-full:IntangibleAssetsUnderDevelopmentMember2024-06-300001858985ifrs-full:IntangibleAssetsUnderDevelopmentMember2023-12-3100018589852023-01-012023-12-310001858985onholdingag:CreditCardsMemberifrs-full:FinancialAssetsAtAmortisedCostCategoryMember2024-06-300001858985onholdingag:CreditCardsMemberifrs-full:FinancialAssetsAtAmortisedCostCategoryMember2023-12-310001858985onholdingag:DepositAssetsMemberifrs-full:FinancialAssetsAtAmortisedCostCategoryMember2024-06-300001858985onholdingag:DepositAssetsMemberifrs-full:FinancialAssetsAtAmortisedCostCategoryMember2023-12-310001858985onholdingag:OtherMiscellaneousCurrentFinancialAssetsMemberifrs-full:FinancialAssetsAtAmortisedCostCategoryMember2024-06-300001858985onholdingag:OtherMiscellaneousCurrentFinancialAssetsMemberifrs-full:FinancialAssetsAtAmortisedCostCategoryMember2023-12-310001858985ifrs-full:FinancialAssetsAtAmortisedCostCategoryMember2024-06-300001858985ifrs-full:FinancialAssetsAtAmortisedCostCategoryMember2023-12-310001858985ifrs-full:FinancialAssetsAtFairValueThroughProfitOrLossCategoryMember2024-06-300001858985ifrs-full:FinancialAssetsAtFairValueThroughProfitOrLossCategoryMember2023-12-310001858985ifrs-full:LeaseLiabilitiesMemberifrs-full:FinancialLiabilitiesAtAmortisedCostCategoryMember2024-06-300001858985ifrs-full:LeaseLiabilitiesMemberifrs-full:FinancialLiabilitiesAtAmortisedCostCategoryMember2023-12-310001858985onholdingag:MiscellaneousOtherFinancialLiabilitiesMemberifrs-full:FinancialLiabilitiesAtAmortisedCostCategoryMember2024-06-300001858985onholdingag:MiscellaneousOtherFinancialLiabilitiesMemberifrs-full:FinancialLiabilitiesAtAmortisedCostCategoryMember2023-12-310001858985ifrs-full:FinancialLiabilitiesAtAmortisedCostCategoryMember2024-06-300001858985ifrs-full:FinancialLiabilitiesAtAmortisedCostCategoryMember2023-12-310001858985onholdingag:OtherCustomerRefundLiabilitiesMember2024-06-300001858985onholdingag:OtherCustomerRefundLiabilitiesMember2023-12-310001858985ifrs-full:NotLaterThanThreeMonthsMember2024-06-300001858985ifrs-full:LaterThanThreeMonthsAndNotLaterThanOneYearMember2024-06-300001858985ifrs-full:LaterThanOneYearAndNotLaterThanFiveYearsMember2024-06-300001858985ifrs-full:LaterThanFiveYearsMember2024-06-300001858985ifrs-full:NotLaterThanThreeMonthsMember2023-12-310001858985ifrs-full:LaterThanThreeMonthsAndNotLaterThanOneYearMember2023-12-310001858985ifrs-full:LaterThanOneYearAndNotLaterThanFiveYearsMember2023-12-310001858985ifrs-full:LaterThanFiveYearsMember2023-12-310001858985onholdingag:BankOverdraftFacilityFourCHFMember2023-07-070001858985onholdingag:BankOverdraftFacilityFourCHFMember2023-07-072023-07-070001858985onholdingag:BankOverdraftFacilityFourCHFMember2023-12-310001858985onholdingag:BankOverdraftFacilityFourCHFMember2024-06-300001858985ifrs-full:ContingentLiabilityForGuaranteesMemberonholdingag:BankOverdraftFacilityFourCHFMember2024-06-300001858985ifrs-full:ContingentLiabilityForGuaranteesMemberonholdingag:BankOverdraftFacilityFourCHFMember2023-12-310001858985onholdingag:ClassASharesMember2024-06-300001858985onholdingag:ClassBVotingSharesMember2024-06-300001858985onholdingag:ClassASharesMember2023-12-310001858985onholdingag:ClassBVotingSharesMember2023-12-310001858985onholdingag:ClassASharesMember2024-01-012024-06-300001858985onholdingag:ClassBVotingSharesMember2024-01-012024-06-300001858985onholdingag:ClassASharesMember2024-04-012024-06-300001858985onholdingag:ClassBVotingSharesMember2024-04-012024-06-300001858985onholdingag:ClassASharesMember2023-04-012023-06-300001858985onholdingag:ClassBVotingSharesMember2023-04-012023-06-300001858985onholdingag:ClassASharesMember2023-01-012023-06-300001858985onholdingag:ClassBVotingSharesMember2023-01-012023-06-300001858985ifrs-full:SharePremiumMember2024-06-300001858985ifrs-full:SharePremiumMember2023-12-310001858985ifrs-full:StatutoryReserveMember2024-06-300001858985ifrs-full:StatutoryReserveMember2023-12-310001858985onholdingag:ReserveForEquityTransactionCostsMember2024-06-300001858985onholdingag:ReserveForEquityTransactionCostsMember2023-12-310001858985onholdingag:ReserveForCurrentTaxBenefitsOnEquityTransactionCostsMember2024-06-300001858985onholdingag:ReserveForCurrentTaxBenefitsOnEquityTransactionCostsMember2023-12-310001858985ifrs-full:ReserveOfSharebasedPaymentsMember2024-06-300001858985ifrs-full:ReserveOfSharebasedPaymentsMember2023-12-310001858985ifrs-full:ReserveOfExchangeDifferencesOnTranslationMember2024-06-300001858985ifrs-full:ReserveOfExchangeDifferencesOnTranslationMember2023-12-310001858985onholdingag:ReserveForActuarialGainsAndLossesBeforeTaxMember2024-06-300001858985onholdingag:ReserveForActuarialGainsAndLossesBeforeTaxMember2023-12-310001858985onholdingag:ReserveForTaxOnActuarialGainsAndLossesMember2024-06-300001858985onholdingag:ReserveForTaxOnActuarialGainsAndLossesMember2023-12-310001858985ifrs-full:ContingentLiabilityForGuaranteesMember2024-06-300001858985ifrs-full:ContingentLiabilityForGuaranteesMember2023-12-310001858985onholdingag:GroupCashPoolParticipantsMember2024-06-300001858985onholdingag:GroupCashPoolParticipantsMember2023-12-310001858985ifrs-full:NotLaterThanOneYearMember2024-06-300001858985ifrs-full:NotLaterThanOneYearMember2023-12-310001858985country:US2024-06-300001858985country:US2023-12-310001858985country:BE2024-06-300001858985country:BE2023-12-310001858985onholdingag:SocialChargesMember2022-12-310001858985onholdingag:LongServiceLeaveMember2022-12-310001858985onholdingag:AssetRetirementObligationMember2022-12-310001858985onholdingag:SocialChargesMember2023-01-012023-06-300001858985onholdingag:LongServiceLeaveMember2023-01-012023-06-300001858985onholdingag:AssetRetirementObligationMember2023-01-012023-06-300001858985onholdingag:SocialChargesMember2023-06-300001858985onholdingag:LongServiceLeaveMember2023-06-300001858985onholdingag:AssetRetirementObligationMember2023-06-300001858985onholdingag:SocialChargesMember2023-12-310001858985onholdingag:LongServiceLeaveMember2023-12-310001858985onholdingag:AssetRetirementObligationMember2023-12-310001858985onholdingag:SocialChargesMember2024-01-012024-06-300001858985onholdingag:LongServiceLeaveMember2024-01-012024-06-300001858985onholdingag:AssetRetirementObligationMember2024-01-012024-06-300001858985onholdingag:SocialChargesMember2024-06-300001858985onholdingag:LongServiceLeaveMember2024-06-300001858985onholdingag:AssetRetirementObligationMember2024-06-30
+
+Exhibit 99.1
+
+Index to unaudited interim condensed consolidated financial statements
+
+Unaudited interim condensed consolidated financial statements	
+
+-	Unaudited interim condensed consolidated statements of income
+	F-2
+	
+ 
+	
+-	Unaudited interim condensed consolidated statements of comprehensive income / (loss)
+	F-3
+	
+
+-	Unaudited interim condensed consolidated balance sheets 
+	F-4
+	
+
+-	Unaudited interim condensed consolidated statements of cash flows 
+	F-5
+	
+
+-	Unaudited interim condensed consolidated statements of changes in equity
+	F-6
+	
+
+-	Notes to the unaudited interim condensed consolidated financial statements
+	F-8
+	
+
+F-1
+
+Unaudited interim condensed consolidated statements of income
+
+Three-month period ended June 30,	Six-month period ended June 30,	
+(CHF in millions)	Notes	2024	2023	2024	2023	
+
+Net sales	2.1	567.7 	444.3 	1,075.9 	864.5 	
+Cost of sales	(227.4)	(179.8)	(432.3)	(355.1)	
+Gross profit	340.2 	264.5 	643.6 	509.4 	
+Selling, general and administrative expenses	2.3	(292.9)	(225.1)	(557.7)	(427.7)	
+Operating result	47.3 	39.4 	85.8 	81.7 	
+Financial income	4.4	5.8 	4.3 	11.2 	6.4 	
+Financial expenses	4.4	(5.9)	(1.9)	(10.8)	(3.6)	
+Foreign exchange gain / (loss)	4.4	(4.5)	(48.5)	72.3 	(39.7)	
+Income / (loss) before taxes	42.7 	(6.7)	158.5 	44.8 	
+Income tax benefit / (expense)	5.2	(11.8)	10.0 	(36.3)	2.9 	
+Net income	30.8 	3.3 	122.2 	47.7 	
+Earnings per share	4.6	
+Basic EPS Class A (CHF)	0.10 	0.01 	0.38 	0.15 	
+Basic EPS Class B (CHF)	0.01 	0.00 	0.04 	0.01 	
+
+Diluted EPS Class A (CHF)	0.09 	0.01 	0.37 	0.15 	
+Diluted EPS Class B (CHF)	0.01 	0.00 	0.04 	0.01 	
+
+F-2
+
+Unaudited interim condensed consolidated statements of comprehensive income / (loss)
+
+Three-month period ended June 30,	Six-month period ended June 30,	
+(CHF in millions)	2024	2023	2024	2023	
+
+Net income	30.8 	3.3 	122.2 	47.7 	
+Net actuarial result from defined benefit plans	1.4 	(1.1)	1.4 	(1.1)	
+Taxes on net actuarial result from defined benefit plans	(0.3)	0.2 	(0.3)	0.2 	
+
+Items that will not be reclassified to income statement	1.1 	(0.9)	1.1 	(0.9)	
+Foreign currency translation effect	(0.6)	(3.2)	4.2 	(2.8)	
+Taxes on foreign currency translation effect	— 	— 	— 	— 	
+Items that will be reclassified to income statement when specific conditions are met	(0.6)	(3.2)	4.2 	(2.8)	
+Other comprehensive income / (loss), net of tax	0.5 	(4.0)	5.4 	(3.6)	
+Total comprehensive income / (loss)	31.3 	(0.7)	127.6 	44.0 	
+
+F-3
+
+Unaudited interim condensed consolidated balance sheets 
+
+(CHF in millions)	Notes	6/30/2024	12/31/2023	
+
+Cash and cash equivalents	4.1	652.4 	494.6 	
+Trade receivables	3.1	314.0 	204.8 	
+Inventories	3.2	401.3 	356.5 	
+Other current financial assets	4.2	38.2 	34.2 	
+Other current operating assets	3.6	95.5 	61.2 	
+
+Current assets	1,501.5 	1,151.3 	
+
+Property, plant and equipment	3.3	111.7 	93.6 	
+Right-of-use assets	3.4	319.1 	214.0 	
+Intangible assets	3.5	61.7 	64.6 	
+
+Deferred tax assets	5.2	51.7 	69.5 	
+
+Non-current assets	544.3 	441.7 	
+
+Assets	2,045.8 	1,593.0 	
+
+Trade payables	148.2 	65.1 	
+Other current financial liabilities	4.3	76.4 	53.4 	
+Other current operating liabilities	3.6	249.9 	156.4 	
+Current provisions	5.1	16.8 	7.1 	
+Income tax liabilities	5.2	12.9 	23.5 	
+
+Current liabilities	504.1 	305.6 	
+
+Employee benefit obligations	1.6 	2.2 	
+Non-current provisions	5.1	11.4 	10.0 	
+Other non-current financial liabilities	4.3	288.1 	190.3 	
+Deferred tax liabilities	5.2	9.7 	10.5 	
+
+Non-current liabilities	310.8 	212.9 	
+
+Share capital	4.5	33.5 	33.5 	
+Treasury shares	4.5	(26.7)	(26.7)	
+Capital reserves	4.7	1,169.7 	1,140.8 	
+Other reserves	4.7	(4.4)	(9.8)	
+Retained earnings / (losses) 	58.9 	(63.3)	
+
+Equity	1,231.0 	1,074.5 	
+
+Equity and liabilities	2,045.8 	1,593.0 	
+
+F-4
+
+Unaudited interim condensed consolidated statements of cash flows 
+
+Six-month period ended June 30,	
+(CHF in millions)	Notes	2024	2023	
+
+Net income	122.2 	47.7 	
+Adjustments for:	
+Share-based compensation	22.9 	8.5 	
+Employee benefit expenses	0.9 	(1.7)	
+Depreciation and amortization	3.3, 3.4, 3.5	48.5 	28.0 	
+Loss on disposal of assets	— 	0.4 	
+Interest income and expenses	(3.6)	(3.8)	
+Net exchange differences	(61.3)	35.3 	
+Income taxes	5.2	36.3 	(2.9)	
+
+Change in working capital	(32.2)	(164.6)	
+Trade receivables	(98.0)	(84.3)	
+Inventories	(16.8)	(60.0)	
+Trade payables	82.7 	(20.3)	
+Change in other operating assets / liabilities	3.6, 4.2, 4.3	57.3 	57.2 	
+Change in provisions	5.1	10.5 	4.7 	
+Interest received	10.9 	6.1 	
+Income taxes paid	(28.9)	(11.6)	
+Cash inflow from operating activities	183.5 	3.3 	
+
+Purchase of tangible assets	3.3	(23.7)	(19.0)	
+
+Purchase of intangible assets	3.5	(2.3)	(2.0)	
+
+Cash (outflow) from investing activities	(26.0)	(21.0)	
+
+Payments of lease liabilities	4.3	(23.7)	(10.2)	
+
+Proceeds on sale of treasury shares related to share-based compensation	4.5	5.2 	5.7 	
+
+Interest paid	4.4	(7.3)	(2.3)	
+
+Cash (outflow) from financing activities	(25.8)	(6.7)	
+
+Change in net cash and cash equivalents	4.1	131.7 	(24.3)	
+Net cash and cash equivalents at January 1	494.6 	371.0 	
+Net impact of foreign exchange rate differences	26.2 	(9.6)	
+Net cash and cash equivalents at June 30	652.4 	337.1 	
+
+F-5
+
+Unaudited interim condensed consolidated statements of changes in equity
+
+Three-month period ended June 30, 2024 and 2023	
+(CHF in millions)	Share capital	Treasury shares	Capital reserves	Other reserves	Retained earnings / (losses)	Total equity	
+
+Balance at April 1, 2023	33.5 	(26.1)	1,109.6 	0.4 	(98.5)	1,018.7 	
+Net income	— 	— 	— 	— 	3.3 	3.3 	
+Other comprehensive loss	— 	— 	— 	(4.0)	— 	(4.0)	
+Comprehensive income / (loss)	— 	— 	— 	(4.0)	3.3 	(0.7)	
+
+Share-based compensation	— 	— 	6.2 	— 	— 	6.2 	
+Sale of treasury shares	— 	0.1 	3.5 	— 	— 	3.5 	
+Tax impact on transactions with treasury shares	— 	— 	(0.7)	— 	— 	(0.7)	
+Purchase of treasury shares	— 	(0.4)	— 	— 	— 	(0.4)	
+
+Balance at June 30, 2023
+	33.5 	(26.4)	1,118.6 	(3.7)	(95.2)	1,026.7 	
+
+Balance at April 1, 2024	33.5 	(26.7)	1,152.9 	(4.9)	28.0 	1,182.8 	
+Net income	— 	— 	— 	— 	30.8 	30.8 	
+Other comprehensive income	— 	— 	— 	0.5 	— 	0.5 	
+Comprehensive income	— 	— 	— 	0.5 	30.8 	31.3 	
+
+Share-based compensation	— 	— 	13.1 	— 	— 	13.1 	
+Sale of treasury shares	— 	0.1 	3.4 	— 	— 	3.5 	
+Tax impact on transactions with treasury shares	— 	— 	0.3 	— 	— 	0.3 	
+Purchase of treasury shares	— 	(0.1)	— 	— 	— 	(0.1)	
+
+Balance at June 30, 2024
+	33.5 	(26.7)	1,169.7 	(4.4)	58.9 	1,231.0 	
+
+F-6
+
+Six-month period ended June 30, 2024 and 2023	
+(CHF in millions)	Share capital	Treasury shares	Capital reserves	Other reserves	Retained earnings / (losses)	Total equity	
+
+Balance at January 1, 2023	33.5 	(26.1)	1,105.1 	— 	(142.9)	969.5 	
+Net income	— 	— 	— 	— 	47.7 	47.7 	
+Other comprehensive loss	— 	— 	— 	(3.6)	— 	(3.6)	
+Comprehensive income / (loss)	— 	— 	— 	(3.6)	47.7 	44.0 	
+
+Share-based compensation	— 	— 	8.5 	— 	— 	8.5 	
+Sale of treasury shares	— 	0.1 	6.1 	— 	— 	6.3 	
+Tax impact on transactions with treasury shares	— 	— 	(1.1)	— 	— 	(1.1)	
+Purchase of treasury shares	— 	(0.5)	— 	— 	— 	(0.5)	
+Balance at June 30, 2023	33.5 	(26.4)	1,118.6 	(3.7)	(95.2)	1,026.7 	
+
+Balance at January 1, 2024	33.5 	(26.7)	1,140.8 	(9.8)	(63.3)	1,074.5 	
+Net income	— 	— 	— 	— 	122.2 	122.2 	
+Other comprehensive income	— 	— 	— 	5.4 	— 	5.4 	
+Comprehensive income	— 	— 	— 	5.4 	122.2 	127.6 	
+
+Share-based compensation	— 	— 	22.9 	— 	— 	22.9 	
+Sale of treasury shares	— 	0.1 	6.0 	— 	— 	6.2 	
+
+Purchase of treasury shares	— 	(0.1)	— 	— 	— 	(0.1)	
+
+Balance at June 30, 2024
+	33.5 	(26.7)	1,169.7 	(4.4)	58.9 	1,231.0 	
+
+F-7
+
+Notes to the unaudited interim condensed consolidated financial statements
+
+1 Basis for preparation
+
+1.1 Corporate information
+
+On Holding AG and its consolidated subsidiaries (together "On" or "the Company") is engaged in developing and distributing innovative premium performance sports products, sold worldwide through independent retailers and global distributors, and through the Company's online presence and high-end stores.
+On is a publicly traded company on the New York Stock Exchange, trading under the ticker symbol "NYSE: ONON". 
+These unaudited interim condensed consolidated financial statements (“the financial statements”) present the financial position and the results of operations of On Holding AG, as ultimate parent company, and its consolidated subsidiaries. On Holding AG is a limited company incorporated in accordance with Swiss law and its principal offices are located at Förrlibuckstrasse 190, Zurich, Switzerland.
+The financial statements for the period ended June 30, 2024 were authorized for issuance by the board of directors of the Company on August 13, 2024.
+
+1.2 About the financials
+
+The financial statements as of June 30, 2024 and for the three months and six months ended June 30, 2024 have been prepared in accordance with International Accounting Standard 34, “Interim Financial Reporting” (“IAS 34”) as issued by the International Accounting Standards Board ("IASB"). 
+The financial statements comprise the Company's financial statements as of and during three months and six months ended June 30, 2024 and are presented in Swiss Francs (CHF), the legal currency of Switzerland. 
+The financial statements are not necessarily indicative of the results for a full year and do not include all the notes typically included in an annual financial report prepared in accordance with International Financial Reporting Standards ("IFRS") and interpretations developed by the IFRS Interpretations Committee ("IFRIC Interpretations"), or its predecessor body, the Standing Interpretations Committee ("SIC Interpretations"), together “IFRS Accounting Standards”, as issued by the International Accounting Standards Board ("IASB"). Accordingly, this report is to be read in conjunction with the Company’s Annual Report on Form 20-F for the year ended December 31, 2023, filed with the SEC on March 12, 2024 (the “Annual Report”), which has been prepared in accordance with IFRS Accounting Standards, as issued by the IASB.
+The material accounting policies, methods of computation, and presentation applied in the preparation of the financial statements are consistent with those applied in the Company’s Annual Report for the year ended December 31, 2023 except where specifically described. 
+Certain amounts included in this document may not add or recalculate due to rounding. With respect to financial information set out in this document, a dash (“—”) signifies that the relevant figure is available but is or has been rounded to zero. 
+
+F-8
+
+1.3 Oniverse
+
+Equity interest	
+Entity	Jurisdiction of incorporation	6/30/2024	12/31/2023	
+
+On Holding AG	Switzerland	
+On AG	Switzerland	100%	100%	
+On Brazil Ltda.	Brazil	100%	100%	
+On Cloud Service GmbH	Germany	100%	100%	
+On Clouds GmbH	Switzerland	100%	100%	
+On Clouds Inc.	Delaware, USA	100%	100%	
+On Europe AG	Switzerland	100%	100%	
+On Experience 1 LLC	Delaware, USA	100%	100%	
+On Experience 2 LLC	Delaware, USA	100%	100%	
+On Experience 3 LLC	Delaware, USA	100%	100%	
+On Experience 4 LLC	Delaware, USA	100%	100%	
+On Experience 5 LLC	Delaware, USA	100%	100%	
+On Experience 6 LLC	Delaware, USA	100%	100%	
+On Experience 7 LLC	Delaware, USA	100%	100%	
+On Experience 8 LLC	Delaware, USA	100%	100%	
+On Experience 9 LLC
+	Delaware, USA	100%	—%	
+On Experience 10 LLC
+	Delaware, USA	100%	—%	
+On Hong Kong Limited	Hong Kong, SAR of China	100%	100%	
+On Inc.	Delaware, USA	100%	100%	
+On Italy S.r.l.	Italy	100%	100%	
+On Japan K.K.	Japan	100%	100%	
+On Korea Ltd.	South Korea	100%	100%	
+On Oceania Pty Ltd.	Australia	100%	100%	
+On Running Canada Inc.	Canada	100%	100%	
+On Running Sports Products (Shanghai) Company Ltd.	China	100%	100%	
+On Running UK Ltd.	United Kingdom	100%	100%	
+On Vietnam Co. Ltd.	Vietnam	100%	100%	
+Brunner Mettler GmbH	Switzerland	100%	100%	
+
+1.4 New and amended standards and interpretations
+
+A number of amended standards became applicable for the current period, none of which have had a material impact on the financial statements for the three month and six month periods ended June 30, 2024.  
+On May 2023, the IASB issued amendments to IAS 12 Income taxes, International Tax Reform - Pillar Two Model Rules. The amendments include a temporary and mandatory exception to the requirements to recognize and disclose information about deferred tax assets and liabilities related to Pillar Two income taxes. The Company has applied this exception.
+Further, at the date of authorization of these financial statements, On has not applied the following new and revised IFRS Standards that have been issued by the IASB but are not yet effective:
+F-9
+
+Description	Standard Reference	IASB Effective Date	
+
+The Effects of Changes in Foreign Exchange Rates: Lack of Exchangeability 
+	Amendments to IAS 21
+	January 1, 2025	
+Amendments to the Classification and Measurement of Financial Instruments
+	Amendments to IFRS 9 and IFRS 7
+	January 1, 2026	
+Presentation and Disclosure in Financial Statements 
+	IFRS 18
+	January 1, 2027	
+Subsidiaries without Public Accountability: Disclosures
+	IFRS 19
+	January 1, 2027	
+
+On does not expect that the adoption of the standards listed above, excluding IFRS 18, will have a material impact on the financial statement and disclosures of On in the current or future reporting periods. 
+
+IFRS 18 – Presentation and Disclosures in Financial Statements that will replace International Accounting Standards ("IAS") 1 – Presentation of Financial Statements from its effective date, was issued on April 9, 2024 by the International Accounting Standards Board ("IASB"). IFRS 18 introduces new requirements for information presented in the primary financial statements and disclosed in the notes. The accounting standard introduces three new defined categories for income and expenses - operating, investing and financing, and requires all companies to provide certain new defined subtotals. IFRS 18 also requires companies to disclose explanations of company-specific measures that are related to the income statement, referred to as management-defined performance measures. Moreover, the accounting standard sets out enhanced guidance on how to organize information and whether to provide it in the primary financial statements or in the notes and requires companies to provide more transparency about operating expenses. IFRS 18 is effective for annual reporting periods beginning on or after January 1, 2027, but early adoption is permitted. On is evaluating the impact of IFRS 18 on the Company's financial statements and disclosures. 
+
+F-10
+
+2 Operational performance
+
+2.1 Net sales
+Net sales by sales channels:
+
+Three-month period ended June 30,	Six-month period ended June 30,	
+(CHF in millions)	2024	2023	2024	2023	
+
+Wholesale	358.2 	280.8 	675.9 	564.0 	
+Direct-to-Consumer	209.4 	163.5 	399.9 	300.5 	
+Net sales	567.7 	444.3 	1,075.9 	864.5 	
+
+Net sales by product groups:
+
+Three-month period ended June 30,	Six-month period ended June 30,	
+(CHF in millions)	2024	2023	2024	2023	
+
+Shoes	542.5 	428.2 	1,027.1 	828.7 	
+Apparel	21.9 	13.4 	41.6 	30.3 	
+Accessories	3.3 	2.7 	7.1 	5.4 	
+
+Net sales	567.7 	444.3 	1,075.9 	864.5 	
+
+On generates net sales primarily from the sale of premium performance shoes, apparel, and accessories. On has two sales channels: Wholesale and Direct-to-Consumer (DTC). The wholesale sales channel involves sales to wholesale customers (e.g., large retailers or retail associations) and international distributors (i.e., in markets where On does not have local sales teams) with the intention of re-selling the goods. The DTC sales channel includes sales to end customers directly through On’s e-commerce platform and retail stores.
+
+Net sales by geographic regions (based on the location of the counterparty):
+
+Three-month period ended June 30,	Six-month period ended June 30,	
+(CHF in millions)	2024	2023	2024	2023	
+
+Europe, Middle East and Africa	138.4 	113.6 	264.6 	232.2 	
+Americas	370.0 	296.6 	699.7 	566.8 	
+Asia-Pacific	59.2 	34.1 	111.6 	65.5 	
+Net sales	567.7 	444.3 	1,075.9 	864.5 	
+
+There is no single customer who accounts for more than 10% of total net sales. For details on assets and liabilities related to contracts with customers refer to 3.1 Trade receivables and 3.6 Other current operating assets and liabilities, respectively. Trade receivables as shown in the unaudited interim condensed consolidated balance sheets relate to the sale of the Company's products.
+F-11
+
+2.2 Segment information
+Operating segments are defined as components of an entity for which discrete financial information is available and is regularly reviewed by the Chief Operating Decision Maker (“CODM”) in making decisions regarding resource allocation and performance assessment.
+On’s CODM is the On Executive Team which consists of the three Co-Founders and the two Co-CEOs. The CODM does not regularly review financial information for any individual component, such as sales channels, geographic regions or product groups that would allow decisions to be made about allocation of resources or performance.
+On operates as single-brand consumer products business and therefore has a single reportable segment. This is primarily due to On’s business activities which focus on driving sales growth by increasing overall brand awareness and market share. The key operating expenditures related to cost of sales, distribution, selling, marketing and general and administrative expenses, are either not differentiated across individual components, or are managed to benefit the entire On brand irrespective of the impact on the potential profitability of a particular component.
+
+2.3 Selling, general and administrative expenses
+
+Three-month period ended June 30,	Six-month period ended June 30,	
+(CHF in millions)	2024	2023	2024	2023	
+
+Distribution expenses	(71.1)	(61.5)	(142.0)	(120.7)	
+Selling expenses	(41.2)	(31.8)	(75.6)	(59.5)	
+Marketing expenses	(70.3)	(51.5)	(131.8)	(96.0)	
+Share-based compensation	(17.1)	(9.1)	(33.9)	(14.0)	
+General and administrative expenses	(93.1)	(71.2)	(174.4)	(137.5)	
+Selling, general and administrative expenses	(292.9)	(225.1)	(557.7)	(427.7)	
+            
+The overall increase in marketing expenses during the three and six-month comparative periods are in line with the higher net sales, with additional increases primarily due to higher marketing spend on upper funnel brand building initiatives and brand partnerships. The overall increase in general and administrative expenses during the three and six-month comparative periods are in line with the higher net sales, with additional increases primarily due to higher expenses for software development projects and higher personnel related expenses. The overall increase in share-based compensation during the three and six-month comparative periods was driven by grants issued during the year ended December 31, 2023, as well as the three and six-month periods ended June 30, 2024, with ongoing vesting periods, as well as increased provisions for equity related social charges. 
+In the six-month period ended June 30, 2024, selling, general and administrative expenses include depreciation and amortization of non-current assets in the amount of CHF 44.0 million (six-month period ended June 30, 2023: CHF 24.4 million). In addition, depreciation charges for production tools in the amount of CHF 4.4 million (six-month period ended June 30, 2023: CHF 3.5 million) are reported in cost of sales. 
+Total personnel expenses, excluding any costs related to share-based compensation, amount to CHF 131.4 million in the six-month period ended June 30, 2024 and CHF 100.0 million in the six-month period ended June 30, 2023, respectively.
+
+3 Operating assets and liabilities
+
+3.1 Trade receivables
+Trade receivables are generally due within a payment period of between 30 to 90 days. Due to their short-term nature, the carrying amount is considered to be the same as their fair value.
+
+(CHF in millions)	6/30/2024	12/31/2023	
+
+Gross carrying amount	327.3 	218.1 	
+Expected credit loss	(13.4)	(13.3)	
+Trade receivables	314.0 	204.8 	
+
+F-12
+
+3.2 Inventories
+
+(CHF in millions)	6/30/2024	12/31/2023	
+
+Shoes	370.9 	321.4 	
+Apparel	37.7 	34.5 	
+Accessories	4.7 	8.0 	
+
+Allowances	(12.0)	(7.4)	
+Inventories(1)
+	401.3 	356.5 	
+
+(1) Inventories are comprised of finished goods.
+
+F-13
+
+3.3 Property, plant and equipment
+
+(CHF in millions)	Leasehold improvements	Trade tools	Production equipment
+	Furniture and fixtures	Other	Total	
+
+Cost at January 1, 2023	49.7 	10.7 	12.9 	13.5 	11.0 	97.8 	
+Accumulated Depreciation at January 1, 2023	(5.0)	(5.4)	(5.3)	(1.4)	(3.4)	(20.6)	
+Net book value at January 1, 2023	44.7 	5.3 	7.5 	12.1 	7.6 	77.2 	
+
+Six month period ended June 30, 2023	
+Opening net book value	44.7 	5.3 	7.5 	12.1 	7.6 	77.2 	
+Additions	8.4 	0.5 	4.1 	3.7 	2.1 	19.0 	
+Disposals	(0.2)	— 	— 	— 	— 	(0.3)	
+Depreciation	(3.4)	(1.2)	(3.2)	(0.9)	(1.4)	(10.1)	
+Currency Translation	(1.0)	(0.1)	— 	(0.3)	(0.1)	(1.5)	
+Net book value at June 30, 2023	48.6 	4.5 	8.5 	14.6 	8.2 	84.3 	
+
+Cost at June 30, 2023	56.6 	10.9 	17.0 	16.9 	12.9 	114.3 	
+Accumulated Depreciation at June 30, 2023	(8.0)	(6.4)	(8.5)	(2.3)	(4.8)	(30.0)	
+Net book value at June 30, 2023	48.6 	4.5 	8.5 	14.6 	8.2 	84.3 	
+
+Cost at January 1, 2024	61.2 	13.6 	21.7 	19.9 	18.1 	134.5 	
+Accumulated Depreciation at January 1, 2024	(11.6)	(7.5)	(12.3)	(3.4)	(6.2)	(41.0)	
+Net book value at January 1, 2024	49.6 	6.1 	9.4 	16.5 	11.9 	93.6 	
+
+Six month period ended June 30, 2024	
+Opening net book value	49.6 	6.1 	9.4 	16.5 	11.9 	93.6 	
+Additions	17.4 	0.4 	5.4 	3.8 	3.5 	30.5 	
+
+Depreciation	(5.7)	(1.5)	(4.3)	(1.4)	(1.5)	(14.4)	
+Currency Translation	1.3 	0.2 	— 	0.5 	0.2 	2.1 	
+Net book value at June 30, 2024	62.5 	5.3 	10.6 	19.4 	14.0 	111.7 	
+
+Cost at June 30, 2024	80.1 	14.4 	27.1 	24.3 	21.8 	167.6 	
+Accumulated Depreciation at June 30, 2024	(17.6)	(9.1)	(16.5)	(4.9)	(7.8)	(55.9)	
+Net book value at June 30, 2024	62.5 	5.3 	10.6 	19.4 	14.0 	111.7 	
+
+The additions of CHF 30.5 million in the six-month period ended June 30, 2024 relate to leasehold improvements for our warehouse in Belgium and Luxembourg and various other additions across retail stores, production equipment, and offices. 
+During the six-month periods ended June 30, 2024 and June 30, 2023, non-cash additions of property, plant and equipment amounted to CHF 6.8 million and CHF 0.0 million, respectively. 
+ Other comprises of IT equipment and fixed assets that are not yet in use. As of June 30, 2024, fixed assets that are not yet in use amounted to CHF 3.9 million (December 31, 2023: CHF 2.4 million). 
+F-14
+
+ 3.4 Right-of-use assets
+
+(CHF in millions)	Storage	Stores & showrooms	Offices	Cars	Total	
+
+Cost at January 1, 2023	28.7 	45.6 	111.0 	7.4 	192.7 	
+Accumulated Depreciation at January 1, 2023	(11.9)	(7.7)	(16.8)	(4.6)	(41.1)	
+Net book value at January 1, 2023	16.8 	37.9 	94.2 	2.8 	151.6 	
+
+Six month period ended June 30, 2023	
+Opening net book value
+	16.8 	37.9 	94.2 	2.8 	151.6 	
+Lease modification	(4.1)	0.1 	0.7 	— 	(3.3)	
+Additions	— 	12.3 	6.6 	1.3 	20.2 	
+Disposals	(0.1)	— 	— 	(0.2)	(0.2)	
+Depreciation	(2.8)	(4.2)	(5.0)	(1.0)	(13.0)	
+Currency Translation	(0.2)	(1.5)	(0.7)	(0.1)	(2.5)	
+Net book value at June 30, 2023	9.6 	44.6 	95.8 	2.9 	152.9 	
+
+Cost at June 30, 2023	23.9 	55.9 	117.4 	7.9 	205.0 	
+Accumulated Depreciation at June 30, 2023	(14.3)	(11.2)	(21.6)	(4.9)	(52.1)	
+Net book value at June 30, 2023	9.6 	44.6 	95.8 	2.9 	152.9 	
+
+Cost at January 1, 2024	87.5 	70.5 	116.9 	8.1 	283.1 	
+Accumulated Depreciation at January 1, 2024	(22.1)	(15.4)	(26.1)	(5.4)	(69.1)	
+Net book value at January 1, 2024	65.3 	55.1 	90.8 	2.8 	214.0 	
+
+Six month period ended June 30, 2024	
+Opening net book value
+	65.3 	55.1 	90.8 	2.8 	214.0 	
+Lease modification	3.0 	— 	0.2 	— 	3.2 	
+Additions	57.4 	49.2 	13.8 	0.5 	121.0 	
+Disposals	— 	(0.1)	— 	— 	(0.1)	
+Depreciation	(14.2)	(8.2)	(5.5)	(0.9)	(28.8)	
+Currency Translation	5.2 	3.1 	1.5 	0.1 	9.9 	
+Net book value at June 30, 2024	116.7 	99.2 	100.7 	2.5 	319.1 	
+
+Cost at June 30, 2024	154.4 	123.3 	132.7 	8.8 	419.2 	
+Accumulated Depreciation at June 30, 2024	(37.7)	(24.1)	(31.9)	(6.3)	(100.1)	
+Net book value at June 30, 2024	116.7 	99.2 	100.7 	2.5 	319.1 	
+
+The additions of CHF 121.0 million in the six-month period ended June 30, 2024 relate to the highly-automated warehouse in the United States ("Atlanta Warehouse"), which became partially operational during the six-months ended June 30, 2024, and other additional warehouse, retail store, and office leases.
+The corresponding lease liabilities are reported in other current financial liabilities and other non-current financial liabilities, respectively. Refer to 4.3 Financial liabilities for additional information.
+
+F-15
+
+3.5 Intangible assets
+
+(CHF in millions)	Patents, licenses and other rights	Software	Goodwill	Total	
+
+Cost at January 1, 2023	69.2 	25.9 	1.8 	96.9 	
+Accumulated Depreciation at January 1, 2023	(15.0)	(11.6)	— 	(26.6)	
+Net book value at January 1, 2023	54.2 	14.4 	1.8 	70.3 	
+
+Six month period ended June 30, 2023	
+Opening net book value	54.2 	14.4 	1.8 	70.3 	
+Additions	0.1 	1.9 	— 	2.0 	
+
+Depreciation	(2.2)	(2.7)	— 	(4.9)	
+
+Net book value at June 30, 2023	52.1 	13.5 	1.8 	67.4 	
+
+Cost at June 30, 2023	69.3 	27.8 	1.8 	98.9 	
+Accumulated Depreciation at June 30, 2023	(17.2)	(14.2)	— 	(31.5)	
+Net book value at June 30, 2023	52.1 	13.5 	1.8 	67.4 	
+
+Cost at January 1, 2024	70.4 	29.0 	1.8 	101.2 	
+Accumulated Depreciation at January 1, 2024	(19.6)	(17.1)	— 	(36.6)	
+Net book value at January 1, 2024	50.9 	11.9 	1.8 	64.6 	
+
+Six month period ended June 30, 2024	
+Opening net book value	50.9 	11.9 	1.8 	64.6 	
+Additions	0.5 	1.8 	— 	2.3 	
+
+Depreciation	(2.3)	(2.9)	— 	(5.2)	
+
+Net book value at June 30, 2024	49.0 	10.9 	1.8 	61.7 	
+
+Cost at June 30, 2024	70.9 	30.9 	1.8 	103.6 	
+Accumulated Depreciation at June 30, 2024	(21.9)	(20.0)	— 	(41.9)	
+Net book value at June 30, 2024	49.0 	10.9 	1.8 	61.7 	
+
+As of June 30, 2024, patents, licenses and other rights include patents, domain names and license rights for trademarks.
+As of June 30, 2024, software includes capitalized IT development costs not yet in use in the amount of CHF 0.7 million (December 31, 2023: CHF 0.3 million). In the six-month period ended June 30, 2024, costs recognized in general and administrative expenses within the income statement for research and development amount to CHF 3.2 million compared to CHF 4.8 million in the six-month period ended June 30, 2023.
+Goodwill is allocated and monitored at the segment level. As of June 30, 2024 and December 31, 2023, there have been no goodwill impairments recognized. None of the goodwill is expected to be deductible for tax purposes.
+F-16
+
+3.6 Other current operating assets and liabilities
+
+(CHF in millions)	6/30/2024	12/31/2023	
+
+Prepaid expenses	29.4 	20.8 	
+Indirect taxes (VAT/GST) receivables	36.3 	26.6 	
+
+Other current assets	29.8 	13.7 	
+Other current operating assets	95.5 	61.2 	
+
+(CHF in millions)	6/30/2024	12/31/2023	
+
+Accrued expenses	163.4 	81.2 	
+Accrued personnel expenses	10.4 	20.0 	
+
+Indirect taxes (VAT/GST) payables	30.6 	24.0 	
+Social security payables	17.5 	6.7 	
+Other payables	17.1 	16.5 	
+Other current operating liabilities	10.7 	8.0 	
+Other current operating liabilities	249.9 	156.4 	
+
+Accrued expenses mainly comprise accruals for outstanding vendor invoices related to marketing, freight, customs, selling and distribution. Accrued expenses increased by CHF 82.2 million as of June 30, 2024 compared to December 31, 2023, primarily due to the timing of certain customs and selling and distribution related expenses, and due to investments in brand building initiatives in the second quarter. Accrued personnel expenses mainly comprise accruals for costs related to bonus, vacation and participation plans.  
+
+4 Capital and financial management
+
+4.1 Cash and cash equivalents
+
+(CHF in millions)	6/30/2024	12/31/2023	
+
+Current bank accounts	393.8 	210.3 	
+Digital wallets	10.6 	11.4 	
+Fixed deposits	248.1 	272.9 	
+
+Cash and cash equivalents(1)
+	652.4 	494.6 	
+
+(1) Net cash and cash equivalents as of December 31, 2023 includes restricted cash in the amount of CHF 0.2 million. There is no restricted cash as of June 30, 2024.
+
+Fixed deposits are comprised of short-term highly liquid investments which are readily convertible into cash with maturity of three months or less and are subject to an insignificant risk of change in value. Digital wallets mainly include deposit account balances at online payment platforms, primarily PayPal. 
+
+F-17
+
+4.2 Other current financial assets
+
+(CHF in millions)	6/30/2024	12/31/2023	
+
+Credit cards	18.7 	16.4 	
+Deposits	13.9 	14.6 	
+Other current financial assets	5.6 	3.2 	
+Other current financial assets at amortized cost	38.2 	34.2 	
+
+Other current financial assets at fair value through profit and loss	— 	— 	
+Other current financial assets	38.2 	34.2 	
+
+Due to their short-term nature, the carrying amount of other current financial assets at amortized cost corresponds to their fair value. 
+
+4.3 Financial liabilities
+
+(CHF in millions)	6/30/2024	12/31/2023	
+
+Current lease liabilities	55.1 	38.7 	
+
+Other financial liabilities	21.3 	14.8 	
+Total other current financial liabilities at amortized cost	76.4 	53.4 	
+
+Non-current lease liabilities	284.4 	190.3 	
+Other non-current financial liabilities
+	3.7 	— 	
+
+Total other non-current financial liabilities at amortized cost	288.1 	190.3 	
+Total current and non-current financial liabilities	364.5 	243.7 	
+
+Due to their short-term nature, the carrying amount of other current financial liabilities at amortized cost corresponds to their fair value. As of June 30, 2024, other current financial liabilities include customer return refunds in the amount of CHF 15.9 million (December 31, 2023: CHF 12.4 million).
+
+Contractual maturities of On’s undiscounted financial liabilities:
+
+(CHF in millions)	Due 
+< 3 months	Due 
+4 to 12 months	Due 
+1 to 5 years	Due 
+> 5 years	6/30/2024	
+
+Trade payables	148.2 	— 	— 	— 	148.2 	
+
+Current lease liabilities	17.4 	53.9 	— 	— 	71.3 	
+
+Other financial liabilities	21.3 	— 	— 	— 	21.3 	
+Other current financial liabilities	38.8 	53.9 	— 	— 	92.7 	
+Non-current lease liabilities	— 	— 	201.9 	127.0 	328.8 	
+Other non-current financial liabilities	— 	— 	3.7 		3.7 	
+
+Other non-current financial liabilities	— 	— 	205.6 	127.0 	332.5 	
+
+F-18
+
+(CHF in millions)	Due 
+< 3 months	Due 
+4 to 12 months	Due 
+1 to 5 years	Due 
+> 5 years	12/31/2023	
+
+Trade payables	65.1 	— 	— 	— 	65.1 	
+
+Current lease liabilities	11.7 	35.2 	— 	— 	46.9 	
+
+Other financial liabilities	14.8 	— 	— 	— 	14.8 	
+Other current financial liabilities	26.5 	35.2 	— 	— 	61.7 	
+Non-current lease liabilities	— 	— 	135.1 	81.3 	216.4 	
+
+Other non-current financial liabilities	— 	— 	135.1 	81.3 	216.4 	
+
+The increase to current and non-current lease liabilities as of June 30, 2024 compared to December 31, 2023 relates primarily to the Atlanta Warehouse and other additional warehouse, office and retail store leases. 
+On July 7, 2023, On entered into a CHF 700.0 million multicurrency credit facility agreement ("credit facility"). On has an option to increase the total availability of borrowings under the credit facility in an aggregate amount of up to CHF 200.0 million, subject to the satisfaction of certain customary conditions. The credit facility had an initial term of three years, which has been extended for a period of one year, and may be extended again for a period of one year. As of June 30, 2024 and December 31, 2023, no amounts had been drawn under the new credit facility.
+Of the total guarantees and letters of credit outstanding as of June 30, 2024 and December 31, 2023, which are discussed in 4.8 Commitments and contingencies, CHF 167.9 million and CHF 155.3 million, respectively, relate to the credit facility.
+The credit facility also contains financial covenants that depend on our consolidated equity as well as our net debt to adjusted EBITDA ratio. As of and during the six-month period ending June 30, 2024, we were in compliance with all covenants under the credit facility. 
+The following assets have been pledged in relation to the credit facility:
+
+(CHF in millions)	6/30/2024	12/31/2023	
+
+Trade receivables	270.3 	145.8 	
+Inventory	232.9 	285.2 	
+Assets pledged	503.2 	431.0 	
+
+4.4 Financial result
+
+Three-month period ended June 30,	Six-month period ended June 30,	
+(CHF in millions)	2024	2023	2024	2023	
+
+Interest income	5.8 	4.3 	11.2 	6.4 	
+Financial income	5.8 	4.3 	11.2 	6.4 	
+Bank charges	(1.6)	(0.5)	(3.2)	(1.0)	
+Interest expenses leases	(4.1)	(1.3)	(7.3)	(2.3)	
+Interest expenses on employee benefits	(0.1)	(0.1)	(0.2)	(0.3)	
+
+Financial expenses	(5.9)	(1.9)	(10.8)	(3.6)	
+Foreign exchange gain/(losses)	(4.5)	(48.5)	72.3 	(39.7)	
+
+Foreign exchange gain / (loss)	(4.5)	(48.5)	72.3 	(39.7)	
+Financial result	(4.6)	(46.1)	72.7 	(36.9)	
+
+F-19
+
+Foreign exchange loss for the three-month period ended June 30, 2024 decreased by CHF 44.0 million, to CHF (4.5) million, compared to CHF (48.5) million for the three-month period ended June 30, 2023. Foreign exchange gain / (loss) for the six-month period ended June 30, 2024 resulted in a foreign exchange gain of CHF 72.3 million, compared to a foreign exchange loss of CHF (39.7) million for the six-month period ended June 30, 2023. The foreign exchange gain / (loss) increases and decreases for the three and six month comparative periods were primarily due to the foreign exchange rate revaluation effects, in particular the CHF/USD exchange rate. 
+
+4.5 Share capital
+The share capital amounts to CHF 33.5 million and is divided into 299,998,125 registered shares with a nominal value of CHF 0.10 each (the "Class A Shares") and in 345,437,500 registered voting rights shares with a nominal value of CHF 0.01 each (the "Class B Shares"). The share capital is paid in at 100%.
+
+Class A Shares	Class B Shares	
+
+Shares issued and outstanding as of January 1, 2024	284,215,277 	345,437,500 	
+
+Sale of treasury shares related to share-based compensation	1,364,663 	— 	
+Purchase of treasury shares	(3,402)	— 	
+
+Shares issued and outstanding as of June 30, 2024(1)
+	285,576,538 	345,437,500 	
+
+Awards granted under various incentive plans not yet exercised or distributed as of June 30, 2024(2)
+	2,969,207 	— 	
+Awards granted under various incentive plans with dilutive effects as of June 30, 2024	3,335,706 	12,467,091 	
+
+(1)    As of June 30, 2024 there were 14,421,587 treasury shares held by On (December 31, 2023: 15,782,848).
+(2)    These awards require little or no further consideration to be exercised, and as such, have been included in the weighted average number of ordinary shares outstanding used to calculate basic EPS at June 30, 2024.
+
+4.6 Earnings per share
+
+Basic earnings per share (EPS) is calculated by dividing On’s net income for the period by the weighted average number of ordinary shares outstanding during the year. 
+Diluted EPS is calculated by dividing On’s net income for the period by the weighted average number of ordinary shares outstanding during the year plus the weighted average number of ordinary shares that would be issued at conversion of all the dilutive potential ordinary shares into ordinary shares. Dilutive effects arise from equity-settled awards from the Company's share-based plans. These shares are included even if the service conditions are not met, or respective performance conditions were fulfilled at the end of the reporting period.
+
+Three-month period ended June 30,	2024	2024	2023	2023	
+Class A	Class B	Class A	Class B	
+
+Weighted number of outstanding shares	288,082,955 	345,437,500 	284,127,877 	345,437,500 	
+Weighted number of shares with dilutive effects
+	3,430,738 	12,467,091 	3,464,956 	11,792,673 	
+Weighted number of outstanding shares (diluted and undiluted)	291,513,693 	357,904,591 	287,592,833 	357,230,173 	
+
+Net profit (CHF in millions)	27.5 	3.3 	2.9 	0.4 	
+Basic EPS (CHF)	0.10	0.01	0.01	0.00	
+Diluted EPS (CHF)	0.09	0.01	0.01	0.00	
+
+F-20
+
+Six-month period ended June 30,	2024	2024	2023	2023	
+Class A	Class B	Class A	Class B	
+
+Weighted number of outstanding shares	287,985,587 	345,437,500 	283,859,171 	345,437,500 	
+Weighted number of shares with dilutive effects
+	3,366,411 	12,174,230 	3,335,726 	11,203,866 	
+Weighted number of outstanding shares (diluted and undiluted)	291,351,998 	357,611,730 	287,194,897 	356,641,366 	
+
+Net profit (CHF in millions)	109.1 	13.1 	42.5 	5.2 	
+Basic EPS (CHF)	0.38	0.04	0.15	0.01	
+Diluted EPS (CHF)	0.37	0.04	0.15	0.01	
+
+4.7 Capital and other reserves
+
+(CHF in millions)	6/30/2024	12/31/2023	
+
+Share premium	756.9 	756.9 	
+Legal reserves	48.3 	42.3 	
+Equity transaction costs	(8.7)	(8.7)	
+Tax impact on equity transaction costs	1.3 	1.3 	
+Share-based compensation	372.0 	349.1 	
+Capital reserves	1,169.7 	1,140.8 	
+Exchange differences	(3.9)	(8.1)	
+Actuarial gains and losses	(0.7)	(2.1)	
+Taxes on actuarial gains and losses	0.1 	0.4 	
+
+Other reserves	(4.4)	(9.8)	
+
+4.8 Commitments and contingencies
+
+As of June 30, 2024, guarantees in the amount of CHF 168.2 million (December 31, 2023: CHF 155.6 million) were provided in favor of third parties. 
+The Swiss On entities form a VAT group and, hence, every entity participating in the group is jointly and severally liable for VAT debt of other group participants. Further On group entities participating in central cash pooling are jointly and severally liable for any debit position or outstanding overdraft in connection with them. In that context, gross balances in the amount of CHF 57.7 million have been offset as of June 30, 2024 (December 31, 2023: CHF 112.6 million).
+On has signed several new lease contracts, which have not yet commenced as of June 30, 2024, and are therefore not yet recognized on the balance sheet. The total committed future outflow resulting of these lease contracts amounts to:
+
+(CHF in millions)	6/30/2024	12/31/2023	
+
+Due < 1 year	10.6 	15.8 	
+Due 1 - 5 years	121.4 	145.4 	
+Due > 5 years	186.0 	224.5 	
+Commitments for future lease obligations	318.0 	385.7 	
+
+F-21
+
+The majority of the future lease commitments relate to contracts for the Atlanta Warehouse and the warehouse in Belgium ("Beringen Warehouse"). The Atlanta Warehouse became partially operational during the six-months ended June 30, 2024, and is expected to be fully operational by 2025. The remaining future lease commitment is CHF 190.1 million (December 31, 2023: CHF 245.8 million).
+
+The Beringen Warehouse began partially operating in 2024 during the six-months ended June 30, 2024, and is expected to be fully operational by 2026. The remaining future lease commitment is CHF 106.4 million (December 31, 2023: CHF 122.5 million).
+
+The remaining other lease commitments primarily relate to a new store in Zurich, Switzerland. 
+
+5 Other disclosures
+
+5.1 Provisions
+
+(CHF in millions)	Social charges	Long-service leave	Asset retirement obligation	Total	
+
+Balance as of January 1, 2023	4.3 	3.8 	4.0 	12.1 	
+thereof current	4.3 	0.5 	0.2 	5.0 	
+thereof non-current	— 	3.3 	3.8 	7.2 	
+Additions	4.2 	1.8 	— 	6.0 	
+Release	— 	(0.7)	— 	(0.8)	
+Utilization	(0.6)	— 	— 	(0.6)	
+
+Exchange differences	— 	(0.1)	(0.1)	(0.1)	
+Balance as of June 30, 2023	7.9 	4.8 	4.0 	16.7 	
+thereof current	7.9 	0.5 	0.1 	8.6 	
+thereof non-current	— 	4.3 	3.8 	8.1 	
+
+Balance as of January 1, 2024	6.8 	5.8 	4.5 	17.1 	
+thereof current	6.3 	0.7 	0.1 	7.1 	
+thereof non-current	0.5 	5.1 	4.3 	10.0 	
+Additions	13.0 	1.4 	0.3 	14.6 	
+Release	(0.4)	(0.1)	— 	(0.4)	
+Utilization	(3.2)	— 	— 	(3.2)	
+
+Exchange differences	(0.1)	0.1 	— 	— 	
+Balance as of June 30, 2024	16.1 	7.2 	4.9 	28.2 	
+thereof current	15.6 	1.0 	0.2 	16.8 	
+thereof non-current	0.5 	6.2 	4.6 	11.4 	
+
+Provisions for social charges include any costs related to local legal requirements related to share-based compensation. Provisions for asset retirement obligations mainly relates to the dismantling costs for the new headquarter in Zurich and retail stores.
+F-22
+
+5.2 Income taxes
+
+Three-month period ended June 30,	Six-month period ended June 30,	
+(CHF in millions)	2024	2023	2024	2023	
+
+Current income tax benefit/(expense) 	(8.1)	(18.0)	(18.6)	(33.6)	
+Deferred income tax benefit/(expense) 	(3.8)	28.0 	(17.7)	36.5 	
+Income tax benefit / (expense)	(11.8)	10.0 	(36.3)	2.9 	
+
+Income tax benefit / (expense) during the three-month and six-month period ended June 30, 2024 resulted in an income tax expense of CHF (11.8) million and CHF (36.3) million, respectively, compared to CHF 10.0 million and CHF 2.9 million income tax benefit for the same period in 2023. The effective tax rate ("ETR") for the three and six-month periods ended June 30, 2024 is 27.7% and 22.9%, respectively, compared to the ETR for the three and six-month periods ended June 30, 2023 of 149.3% and (6.5)%, respectively. The changes in income tax benefit / (expense) are mainly due to deferred income tax benefits during the three and six-month periods ended June 30, 2023, related to the elimination of intercompany profits in inventory as well as higher effectiveness of certain tax incentives.
+
+5.3 Events after the balance sheet date
+There were no material events after the balance sheet date.
+
+F-23

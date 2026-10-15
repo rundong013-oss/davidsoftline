@@ -1,0 +1,2 @@
+ticker,name,date,price,quote_ccy,market_cap_mm,implied_shares_mm,reporting_ccy,fx_quote_to_reporting,market_cap_mm_reporting_ccy,fwd_pe_FY2027E,fwd_ps_FY2027E,fwd_pe_FY2028E,fwd_ps_FY2028E,fwd_pe_FY2029E,fwd_ps_FY2029E
+NKE,"NIKE, Inc.",2026-09-24,35.99,USD,53258.405988,1479.8112250069464,USD,1.0,53258.405988,21.11470386748507,1.1702138859461761,16.383125771179287,1.1316977749800439,13.264682186908951,1.1024369426610738

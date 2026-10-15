@@ -1,0 +1,262 @@
+# 运动服饰 & 奢侈品行业覆盖公司清单
+# 格式说明：
+#   - ticker: 交易所代码
+#   - name: 公司简称
+#   - market: US / HK / JP / DE / FR / IT / CH / UK / CA / CN
+#   - fmp_ticker: FMP API 使用的 ticker（如与 ticker 不同）
+
+# --- 基准指数 ---
+benchmark: "SPY"
+
+# ============================================================
+#                    运动服饰 (Sportswear)
+# ============================================================
+sportswear:
+  # ----- 美股 -----
+  - ticker: "NKE.N"
+    name: "Nike"
+    market: US
+    fmp_ticker: "NKE"
+
+  - ticker: "LULU.O"
+    name: "Lululemon"
+    market: US
+    fmp_ticker: "LULU"
+
+  - ticker: "ONON.N"
+    name: "On Holding"
+    market: US
+    fmp_ticker: "ONON"
+
+  - ticker: "DECK.N"
+    name: "Deckers (HOKA/UGG)"
+    market: US
+    fmp_ticker: "DECK"
+
+  - ticker: "SKX.N"
+    name: "Skechers"
+    market: US
+    fmp_ticker: "SKX"
+
+  - ticker: "CROX.O"
+    name: "Crocs"
+    market: US
+    fmp_ticker: "CROX"
+
+  - ticker: "UAA.N"
+    name: "Under Armour"
+    market: US
+    fmp_ticker: "UAA"
+
+  - ticker: "COLM.O"
+    name: "Columbia Sportswear"
+    market: US
+    fmp_ticker: "COLM"
+
+  - ticker: "WWW.N"
+    name: "Wolverine World Wide"
+    market: US
+    fmp_ticker: "WWW"
+
+  - ticker: "VFC"
+    name: "VF Corp"
+    market: US
+    fmp_ticker: "VFC"
+
+  - ticker: "RL.N"
+    name: "Ralph Lauren"
+    market: US
+    fmp_ticker: "RL"
+
+  - ticker: "GAP.N"
+    name: "Gap"
+    market: US
+    fmp_ticker: "GAP"
+
+  - ticker: "ANF.N"
+    name: "Abercrombie & Fitch"
+    market: US
+    fmp_ticker: "ANF"
+
+  - ticker: "LEVI.N"
+    name: "Levi Strauss"
+    market: US
+    fmp_ticker: "LEVI"
+
+  - ticker: "HBI.N"
+    name: "Hanesbrands"
+    market: US
+    fmp_ticker: "HBI"
+
+  - ticker: "KTB.N"
+    name: "Kontoor Brands"
+    market: US
+    fmp_ticker: "KTB"
+
+  - ticker: "GIL.N"
+    name: "Gildan"
+    market: US
+    fmp_ticker: "GIL"
+
+  - ticker: "VSCO.N"
+    name: "Victoria's Secret"
+    market: US
+    fmp_ticker: "VSCO"
+
+  - ticker: "SHOO.O"
+    name: "Steven Madden"
+    market: US
+    fmp_ticker: "SHOO"
+
+  - ticker: "NWL.O"
+    name: "Newell Brands"
+    market: US
+    fmp_ticker: "NWL"
+
+  - ticker: "AS.N"
+    name: "Amer Sports"
+    market: US
+    fmp_ticker: "AS"
+
+  - ticker: "BZUN.O"
+    name: "Baozun"
+    market: US
+    fmp_ticker: "BZUN"
+
+  - ticker: "GOOS.TO"
+    name: "Canada Goose"
+    market: CA
+    fmp_ticker: "GOOS.TO"
+
+  # ----- 欧洲 -----
+  - ticker: "ADDY"
+    name: "Adidas"
+    market: DE
+    fmp_ticker: "ADDYY"
+
+  - ticker: "PUM.DF"
+    name: "Puma"
+    market: DE
+    fmp_ticker: "PUMSY"
+
+  # ----- 日本 -----
+  - ticker: "9983.T"
+    name: "Fast Retailing (Uniqlo)"
+    market: JP
+    fmp_ticker: "FRCOY"
+
+  - ticker: "7936.T"
+    name: "ASICS"
+    market: JP
+    fmp_ticker: "ASCCF"
+
+  - ticker: "8111.T"
+    name: "Goldwin"
+    market: JP
+    fmp_ticker: "8111.T"
+
+  # ----- 港股 -----
+  - ticker: "2020.HK"
+    name: "安踏体育"
+    market: HK
+    fmp_ticker: "2020.HK"
+
+  - ticker: "2331.HK"
+    name: "李宁"
+    market: HK
+    fmp_ticker: "2331.HK"
+
+  - ticker: "3998.HK"
+    name: "波司登"
+    market: HK
+    fmp_ticker: "3998.HK"
+
+  - ticker: "1368.HK"
+    name: "特步国际"
+    market: HK
+    fmp_ticker: "1368.HK"
+
+  - ticker: "1361.HK"
+    name: "361度"
+    market: HK
+    fmp_ticker: "1361.HK"
+
+  - ticker: "1836.HK"
+    name: "Stella International"
+    market: HK
+    fmp_ticker: "1836.HK"
+
+  # ----- A股 -----
+  - ticker: "002832.SZ"
+    name: "比音勒芬"
+    market: CN
+    fmp_ticker: "002832.SZ"
+
+# ============================================================
+#                    奢侈品 (Luxury)
+# ============================================================
+luxury:
+  - ticker: "MC.PA"
+    name: "LVMH"
+    market: FR
+    fmp_ticker: "MC.PA"
+
+  - ticker: "RMS.PA"
+    name: "Hermes"
+    market: FR
+    fmp_ticker: "RMS.PA"
+
+  - ticker: "KER.PA"
+    name: "Kering"
+    market: FR
+    fmp_ticker: "KER.PA"
+
+  - ticker: "CFR.SW"
+    name: "Richemont"
+    market: CH
+    fmp_ticker: "CFR.SW"
+
+  - ticker: "MONC.MI"
+    name: "Moncler"
+    market: IT
+    fmp_ticker: "MONC.MI"
+
+  - ticker: "SFER.MI"
+    name: "Ferragamo"
+    market: IT
+    fmp_ticker: "SFER.MI"
+
+  - ticker: "RACE"
+    name: "Ferrari"
+    market: US
+    fmp_ticker: "RACE"
+
+  - ticker: "BRBY.L"
+    name: "Burberry"
+    market: UK
+    fmp_ticker: "BRBY.L"
+
+  - ticker: "1913.HK"
+    name: "Prada"
+    market: HK
+    fmp_ticker: "1913.HK"
+
+  - ticker: "ZGN.N"
+    name: "Zegna"
+    market: US
+    fmp_ticker: "ZGN"
+
+  - ticker: "CPRI"
+    name: "Capri Holdings (MK/Versace/Kors)"
+    market: US
+    fmp_ticker: "CPRI"
+
+  - ticker: "PVH"
+    name: "PVH (Calvin Klein/Tommy Hilfiger)"
+    market: US
+    fmp_ticker: "PVH"
+
+  - ticker: "TPR"
+    name: "Tapestry (Coach/Kate Spade)"
+    market: US
+    fmp_ticker: "TPR"
