@@ -1,11 +1,7 @@
 """
 price_position.py — 股价位置：当前价在历史区间的分位数。
 """
-import pandas as pd
 import streamlit as st
-
-from config import ALL_NAMES, SPORTSWEAR_TICKERS, LUXURY_TICKERS
-from data.database import get_price_percentiles
 
 
 def _build_table(df, tickers, names):
@@ -28,6 +24,9 @@ def _build_table(df, tickers, names):
 
 
 def render():
+    from config import ALL_NAMES, SPORTSWEAR_TICKERS, LUXURY_TICKERS
+    from data.database import get_price_percentiles
+
     st.header("股价位置")
     st.caption("当前价在历史周线数据中的分位数（0% = 历史最低，100% = 历史最高）")
 
