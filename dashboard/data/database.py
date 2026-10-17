@@ -308,3 +308,32 @@ def get_earnings(sector=None):
     sql += " ORDER BY earnings_date"
     with get_conn() as conn:
         return pd.read_sql_query(sql, conn, params=params)
+
+
+# ── Price Percentiles ────────────────────────────────────────────
+def get_price_percentiles():
+    """计算每个 ticker 当前价在历史 weekly_prices 中的分位数。"""
+    sql = """
+    SELECT
+        ticker,
+        sector,
+        COUNT(*)          AS weeks,
+        MIN(close)        AS low,
+        MAX(close)        AS high,
+        -- 最新一周的收盘价
+        (SELECT wp2.close
+         FROM weekly_prices wp2
+         WHERE wp2.ticker = wp.ticker
+         ORDER BY wp2.date DESC LIMIT 1) AS current_price
+    FROM weekly_prices wp
+    WHERE close IS NOT NULL
+    GROUP BY ticker
+    """
+    with get_conn() as conn:
+        df = pd.read_sql_query(sql, conn)
+    if df.empty:
+        return df
+    # percentile = (current - low) / (high - low)
+    df["percentile"] = (df["current_price"] - df["low"]) / (df["high"] - df["low"])
+    df["percentile"] = df["percentile"].clip(0, 1)
+    return df

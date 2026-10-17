@@ -18,6 +18,7 @@ import streamlit as st
 
 from data.database import init_db, get_meta
 from views import weekly_changes, index_etf, macro, valuation, earnings_calendar
+from views import price_position
 from views import thesis_bank
 
 # ── 页面配置 ──────────────────────────────────────────────────────
@@ -47,6 +48,7 @@ if module == "Monitor":
         [
             "周涨跌幅",
             "估值筛选",
+            "股价位置",
             "指数和ETF",
             "宏观数据",
             "Earnings 日历",
@@ -99,6 +101,8 @@ if module == "Monitor":
         macro.render()
     elif page == "估值筛选":
         valuation.render()
+    elif page == "股价位置":
+        price_position.render()
     elif page == "Earnings 日历":
         earnings_calendar.render()
 
