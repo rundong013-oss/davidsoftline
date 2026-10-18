@@ -36,7 +36,7 @@ def _compute_percentiles():
             "low": low,
             "high": high,
             "current_price": current,
-            "percentile": pct,
+            "percentile": round(pct * 100),
         })
     return pd.DataFrame(rows)
 
@@ -74,7 +74,7 @@ def render():
         "历史最低": st.column_config.NumberColumn(format="%.2f"),
         "历史最高": st.column_config.NumberColumn(format="%.2f"),
         "分位数": st.column_config.ProgressColumn(
-            min_value=0, max_value=1, format="%.0%%",
+            min_value=0, max_value=100, format="%d%%",
         ),
         "数据周数": st.column_config.NumberColumn(format="%d"),
     }
