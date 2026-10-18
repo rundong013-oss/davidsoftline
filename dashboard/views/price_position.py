@@ -1,12 +1,19 @@
 """
 price_position.py — 股价位置：当前价在历史区间的分位数。
 """
-import streamlit as st
 import pandas as pd
+import streamlit as st
+
+from config import ALL_NAMES, SPORTSWEAR_TICKERS, LUXURY_TICKERS
+from data.database import get_weekly_prices
 
 
-def _compute_percentiles(df):
-    """从 weekly_prices DataFrame 计算每个 ticker 的分位数。"""
+def _compute_percentiles():
+    """用 get_weekly_prices 计算每个 ticker 的历史分位数。"""
+    df = get_weekly_prices()
+    if df.empty:
+        return pd.DataFrame()
+
     df = df.dropna(subset=["close"]).copy()
     if df.empty:
         return pd.DataFrame()
@@ -17,8 +24,11 @@ def _compute_percentiles(df):
         low = float(closes.min())
         high = float(closes.max())
         current = float(grp.sort_values("date")["close"].iloc[-1])
-        pct = (current - low) / (high - low) if high > low else 0.5
-        pct = max(0.0, min(1.0, pct))
+        if high > low:
+            pct = (current - low) / (high - low)
+            pct = max(0.0, min(1.0, pct))
+        else:
+            pct = 0.5
         rows.append({
             "ticker": ticker,
             "sector": grp["sector"].iloc[0],
@@ -51,19 +61,10 @@ def _build_table(df, tickers, names):
 
 
 def render():
-    from config import ALL_NAMES, SPORTSWEAR_TICKERS, LUXURY_TICKERS
-    from data.database import get_weekly_prices
-
     st.header("股价位置")
     st.caption("当前价在历史周线数据中的分位数（0% = 历史最低，100% = 历史最高）")
 
-    try:
-        raw = get_weekly_prices()
-        df = _compute_percentiles(raw)
-    except Exception as e:
-        st.error(f"计算分位数时出错: {type(e).__name__}: {e}")
-        return
-
+    df = _compute_percentiles()
     if df.empty:
         st.warning("无周线数据。请先导入 Excel 或运行 API 更新。")
         return
