@@ -7,28 +7,28 @@ import pandas as pd
 
 def _compute_percentiles(df):
     """从 weekly_prices DataFrame 计算每个 ticker 的分位数。"""
-    df = df.dropna(subset=["close"])
+    df = df.dropna(subset=["close"]).copy()
     if df.empty:
         return pd.DataFrame()
 
-    # 每个 ticker 的统计量
-    agg = df.groupby("ticker").agg(
-        sector=("sector", "first"),
-        weeks=("close", "count"),
-        low=("close", "min"),
-        high=("close", "max"),
-    ).reset_index()
-
-    # 最新一周收盘价：取每个 ticker 最大 date 对应的 close
-    latest = df.sort_values("date").groupby("ticker").tail(1)[["ticker", "close"]]
-    latest = latest.rename(columns={"close": "current_price"})
-
-    result = agg.merge(latest, on="ticker", how="left")
-    span = result["high"] - result["low"]
-    result["percentile"] = ((result["current_price"] - result["low"]) / span).clip(0, 1)
-    # span == 0 时设为 0.5
-    result.loc[span == 0, "percentile"] = 0.5
-    return result
+    rows = []
+    for ticker, grp in df.groupby("ticker"):
+        closes = grp["close"]
+        low = float(closes.min())
+        high = float(closes.max())
+        current = float(grp.sort_values("date")["close"].iloc[-1])
+        pct = (current - low) / (high - low) if high > low else 0.5
+        pct = max(0.0, min(1.0, pct))
+        rows.append({
+            "ticker": ticker,
+            "sector": grp["sector"].iloc[0],
+            "weeks": len(grp),
+            "low": low,
+            "high": high,
+            "current_price": current,
+            "percentile": pct,
+        })
+    return pd.DataFrame(rows)
 
 
 def _build_table(df, tickers, names):
@@ -57,8 +57,13 @@ def render():
     st.header("股价位置")
     st.caption("当前价在历史周线数据中的分位数（0% = 历史最低，100% = 历史最高）")
 
-    raw = get_weekly_prices()
-    df = _compute_percentiles(raw)
+    try:
+        raw = get_weekly_prices()
+        df = _compute_percentiles(raw)
+    except Exception as e:
+        st.error(f"计算分位数时出错: {type(e).__name__}: {e}")
+        return
+
     if df.empty:
         st.warning("无周线数据。请先导入 Excel 或运行 API 更新。")
         return
